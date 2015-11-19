@@ -1,0 +1,2132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.4.0 (6213 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="41.9394200" minlon="-87.6564000" maxlat="41.9406200" maxlon="-87.6535000"/>
+ <node id="250278937" visible="true" version="45" changeset="21631975" timestamp="2014-04-11T18:19:10Z" user="Eliyak" uid="439046" lat="41.9326361" lon="-87.6538577">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="250278950" visible="true" version="22" changeset="17167643" timestamp="2013-07-31T15:47:04Z" user="bbmiller" uid="451048" lat="41.9276424" lon="-87.6536862"/>
+ <node id="250278958" visible="true" version="27" changeset="15413327" timestamp="2013-03-18T21:07:33Z" user="Umbugbene" uid="567034" lat="41.9526777" lon="-87.6544906"/>
+ <node id="250756058" visible="true" version="25" changeset="4746172" timestamp="2010-05-19T08:43:26Z" user="NE2" uid="207745" lat="41.9108457" lon="-87.6531062">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="250756055" visible="true" version="24" changeset="4746172" timestamp="2010-05-19T08:43:26Z" user="NE2" uid="207745" lat="41.9117579" lon="-87.6531317"/>
+ <node id="261128737" visible="true" version="7" changeset="11702004" timestamp="2012-05-25T21:08:05Z" user="bbmiller" uid="451048" lat="41.9380742" lon="-87.6552636"/>
+ <node id="262368759" visible="true" version="25" changeset="21637460" timestamp="2014-04-11T23:57:43Z" user="Eliyak" uid="439046" lat="41.9097947" lon="-87.6530860"/>
+ <node id="263983571" visible="true" version="21" changeset="4746172" timestamp="2010-05-19T08:43:27Z" user="NE2" uid="207745" lat="41.9119046" lon="-87.6531343"/>
+ <node id="263985033" visible="true" version="22" changeset="12530359" timestamp="2012-07-29T03:59:47Z" user="iandees" uid="4732" lat="41.9159556" lon="-87.6532864"/>
+ <node id="265641952" visible="true" version="21" changeset="4746172" timestamp="2010-05-19T08:43:27Z" user="NE2" uid="207745" lat="41.9148896" lon="-87.6532524"/>
+ <node id="286372523" visible="true" version="3" changeset="13631945" timestamp="2012-10-25T20:39:52Z" user="bbmiller" uid="451048" lat="41.9253841" lon="-87.6535992">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="286372699" visible="true" version="25" changeset="17157247" timestamp="2013-07-30T19:30:57Z" user="bbmiller" uid="451048" lat="41.9263500" lon="-87.6536410"/>
+ <node id="286372663" visible="true" version="29" changeset="4746172" timestamp="2010-05-19T08:43:28Z" user="NE2" uid="207745" lat="41.9272015" lon="-87.6536665"/>
+ <node id="308430872" visible="true" version="29" changeset="4746172" timestamp="2010-05-19T08:58:23Z" user="NE2" uid="207745" lat="41.9397200" lon="-87.6662514"/>
+ <node id="308431246" visible="true" version="21" changeset="20459580" timestamp="2014-02-09T07:32:33Z" user="Eliyak" uid="439046" lat="41.9396733" lon="-87.6710936"/>
+ <node id="308435346" visible="true" version="14" changeset="20459580" timestamp="2014-02-09T07:32:34Z" user="Eliyak" uid="439046" lat="41.9395664" lon="-87.6807687"/>
+ <node id="308435386" visible="true" version="19" changeset="21437847" timestamp="2014-04-01T11:53:51Z" user="Eliyak" uid="439046" lat="41.9394578" lon="-87.6905945">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="308677322" visible="true" version="7" changeset="13188140" timestamp="2012-09-20T21:03:05Z" user="bbmiller" uid="451048" lat="41.9281113" lon="-87.6537039"/>
+ <node id="365489181" visible="true" version="2" changeset="4746172" timestamp="2010-05-19T08:58:23Z" user="NE2" uid="207745" lat="41.9397645" lon="-87.6631797"/>
+ <node id="365489196" visible="true" version="2" changeset="4746172" timestamp="2010-05-19T08:58:23Z" user="NE2" uid="207745" lat="41.9397532" lon="-87.6644524"/>
+ <node id="261128740" visible="true" version="4" changeset="8185840" timestamp="2011-05-18T22:55:54Z" user="ksturm2" uid="437322" lat="41.9420407" lon="-87.6553958"/>
+ <node id="250278964" visible="true" version="55" changeset="15170092" timestamp="2013-02-26T07:51:27Z" user="Umbugbene" uid="567034" lat="41.9398377" lon="-87.6589743">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="365489175" visible="true" version="4" changeset="15170092" timestamp="2013-02-26T07:51:27Z" user="Umbugbene" uid="567034" lat="41.9398479" lon="-87.6583532"/>
+ <node id="365489265" visible="true" version="4" changeset="15170092" timestamp="2013-02-26T07:51:28Z" user="Umbugbene" uid="567034" lat="41.9398165" lon="-87.6602073"/>
+ <node id="308430829" visible="true" version="29" changeset="15170092" timestamp="2013-02-26T07:51:28Z" user="Umbugbene" uid="567034" lat="41.9398741" lon="-87.6565399"/>
+ <node id="308430869" visible="true" version="26" changeset="4746172" timestamp="2010-05-19T08:58:23Z" user="NE2" uid="207745" lat="41.9397584" lon="-87.6638160">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="308430828" visible="true" version="26" changeset="11702004" timestamp="2012-05-25T21:02:25Z" user="bbmiller" uid="451048" lat="41.9398974" lon="-87.6553208"/>
+ <node id="503798696" visible="true" version="3" changeset="23074647" timestamp="2014-06-22T06:15:08Z" user="boeleman81" uid="1557342" lat="41.9397474" lon="-87.6551740">
+  <tag k="addr:housenumber" v="1025"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="amenity" v="fast_food"/>
+  <tag k="name" v="Chipotle"/>
+ </node>
+ <node id="503798695" visible="true" version="3" changeset="23074647" timestamp="2014-06-22T06:16:00Z" user="boeleman81" uid="1557342" lat="41.9400224" lon="-87.6557663">
+  <tag k="addr:housenumber" v="1040"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="Giordanos"/>
+ </node>
+ <node id="503798694" visible="true" version="3" changeset="23074647" timestamp="2014-06-22T06:16:34Z" user="boeleman81" uid="1557342" lat="41.9400108" lon="-87.6562333">
+  <tag k="addr:housenumber" v="1056"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="name" v="Something Old Something New"/>
+  <tag k="shop" v="supermarket"/>
+ </node>
+ <node id="250278978" visible="true" version="7" changeset="4746172" timestamp="2010-05-19T08:58:21Z" user="NE2" uid="207745" lat="41.9399736" lon="-87.6492818">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="261128741" visible="true" version="6" changeset="11692429" timestamp="2012-05-24T18:48:47Z" user="bbmiller" uid="451048" lat="41.9435476" lon="-87.6554392"/>
+ <node id="418527733" visible="true" version="2" changeset="4746172" timestamp="2010-05-19T08:43:26Z" user="NE2" uid="207745" lat="41.9115054" lon="-87.6531276"/>
+ <node id="418527734" visible="true" version="2" changeset="4746172" timestamp="2010-05-19T08:43:27Z" user="NE2" uid="207745" lat="41.9127643" lon="-87.6531715"/>
+ <node id="418527735" visible="true" version="2" changeset="4746172" timestamp="2010-05-19T08:43:27Z" user="NE2" uid="207745" lat="41.9129369" lon="-87.6531755"/>
+ <node id="418527736" visible="true" version="2" changeset="4746172" timestamp="2010-05-19T08:43:27Z" user="NE2" uid="207745" lat="41.9129942" lon="-87.6531768"/>
+ <node id="418527737" visible="true" version="2" changeset="4746172" timestamp="2010-05-19T08:43:27Z" user="NE2" uid="207745" lat="41.9143656" lon="-87.6532322"/>
+ <node id="262369459" visible="true" version="6" changeset="4746172" timestamp="2010-05-19T08:58:17Z" user="NE2" uid="207745" lat="41.9290191" lon="-87.6537408">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="262171396" visible="true" version="28" changeset="4746172" timestamp="2010-05-19T08:58:21Z" user="NE2" uid="207745" lat="41.9399276" lon="-87.6528849"/>
+ <node id="250278983" visible="true" version="28" changeset="4746172" timestamp="2010-05-19T08:58:23Z" user="NE2" uid="207745" lat="41.9397967" lon="-87.6614230"/>
+ <node id="495735658" visible="true" version="4" changeset="20459580" timestamp="2014-02-09T07:32:33Z" user="Eliyak" uid="439046" lat="41.9396916" lon="-87.6694437"/>
+ <node id="739321961" visible="true" version="3" changeset="21631975" timestamp="2014-04-11T18:19:10Z" user="Eliyak" uid="439046" lat="41.9135712" lon="-87.6532041">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="897613189" visible="true" version="1" changeset="5689882" timestamp="2010-09-05T16:58:57Z" user="Lart" uid="29148" lat="41.9398327" lon="-87.6542133">
+  <tag k="amenity" v="post_box"/>
+  <tag k="operator" v="United States Postal Service"/>
+ </node>
+ <node id="2286329568" visible="true" version="1" changeset="15915738" timestamp="2013-04-30T03:05:03Z" user="Eliyak" uid="439046" lat="41.9525642" lon="-87.6544870">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="102705893" visible="true" version="32" changeset="21469607" timestamp="2014-04-03T04:31:33Z" user="Eliyak" uid="439046" lat="41.9181077" lon="-87.6533730">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="26808254" visible="true" version="35" changeset="10715246" timestamp="2012-02-17T21:11:36Z" user="jimjoe45" uid="604536" lat="41.9472415" lon="-87.6543260">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="308435341" visible="true" version="14" changeset="20459580" timestamp="2014-02-09T07:32:34Z" user="Eliyak" uid="439046" lat="41.9395128" lon="-87.6856182"/>
+ <node id="308434344" visible="true" version="14" changeset="20459580" timestamp="2014-02-09T07:32:34Z" user="Eliyak" uid="439046" lat="41.9394845" lon="-87.6881830">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="308440333" visible="true" version="9" changeset="10715246" timestamp="2012-02-17T21:11:37Z" user="jimjoe45" uid="604536" lat="41.9335501" lon="-87.6538854"/>
+ <node id="260099213" visible="true" version="26" changeset="18521258" timestamp="2013-10-24T15:06:01Z" user="bbmiller" uid="451048" lat="41.9353526" lon="-87.6539513"/>
+ <node id="308440319" visible="true" version="6" changeset="10715246" timestamp="2012-02-17T21:11:37Z" user="jimjoe45" uid="604536" lat="41.9371758" lon="-87.6540020"/>
+ <node id="250278980" visible="true" version="51" changeset="27477631" timestamp="2014-12-15T09:46:57Z" user="Zol87" uid="1237170" lat="41.9399097" lon="-87.6541088">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="308440334" visible="true" version="14" changeset="11702004" timestamp="2012-05-25T21:08:05Z" user="bbmiller" uid="451048" lat="41.9344515" lon="-87.6539228"/>
+ <node id="308440308" visible="true" version="19" changeset="11702004" timestamp="2012-05-25T21:08:05Z" user="bbmiller" uid="451048" lat="41.9380968" lon="-87.6540536"/>
+ <node id="308430867" visible="true" version="32" changeset="11232662" timestamp="2012-04-09T02:29:26Z" user="iandees" uid="4732" lat="41.9398033" lon="-87.6610808"/>
+ <node id="263901890" visible="true" version="33" changeset="20459580" timestamp="2014-02-09T07:32:33Z" user="Eliyak" uid="439046" lat="41.9396475" lon="-87.6734341"/>
+ <node id="308431243" visible="true" version="20" changeset="20459580" timestamp="2014-02-09T07:32:33Z" user="Eliyak" uid="439046" lat="41.9396379" lon="-87.6742983"/>
+ <node id="1764458385" visible="true" version="1" changeset="11692429" timestamp="2012-05-24T18:48:46Z" user="bbmiller" uid="451048" lat="41.9435721" lon="-87.6542244"/>
+ <node id="1764458377" visible="true" version="2" changeset="13460083" timestamp="2012-10-11T21:12:25Z" user="bbmiller" uid="451048" lat="41.9454049" lon="-87.6542703"/>
+ <node id="1764458394" visible="true" version="1" changeset="11692429" timestamp="2012-05-24T18:48:46Z" user="bbmiller" uid="451048" lat="41.9417362" lon="-87.6541685"/>
+ <node id="262225145" visible="true" version="16" changeset="11692429" timestamp="2012-05-24T18:48:48Z" user="bbmiller" uid="451048" lat="41.9417265" lon="-87.6553845"/>
+ <node id="1764458396" visible="true" version="2" changeset="21631975" timestamp="2014-04-11T18:19:10Z" user="Eliyak" uid="439046" lat="41.9490457" lon="-87.6543808"/>
+ <node id="1764458393" visible="true" version="2" changeset="11694695" timestamp="2012-05-25T00:49:01Z" user="Umbugbene" uid="567034" lat="41.9511181" lon="-87.6544405"/>
+ <node id="308440636" visible="true" version="25" changeset="17912010" timestamp="2013-09-18T19:40:08Z" user="jimjoe45" uid="604536" lat="41.9362645" lon="-87.6551952"/>
+ <node id="1765570725" visible="true" version="1" changeset="11702004" timestamp="2012-05-25T21:08:03Z" user="bbmiller" uid="451048" lat="41.9339952" lon="-87.6545248"/>
+ <node id="1765570728" visible="true" version="1" changeset="11702004" timestamp="2012-05-25T21:08:03Z" user="bbmiller" uid="451048" lat="41.9335372" lon="-87.6545112"/>
+ <node id="1765570729" visible="true" version="1" changeset="11702004" timestamp="2012-05-25T21:08:03Z" user="bbmiller" uid="451048" lat="41.9380856" lon="-87.6546533"/>
+ <node id="1765570730" visible="true" version="1" changeset="11702004" timestamp="2012-05-25T21:08:04Z" user="bbmiller" uid="451048" lat="41.9357929" lon="-87.6545810"/>
+ <node id="1765570731" visible="true" version="1" changeset="11702004" timestamp="2012-05-25T21:08:04Z" user="bbmiller" uid="451048" lat="41.9417314" lon="-87.6547742"/>
+ <node id="1765570733" visible="true" version="1" changeset="11702004" timestamp="2012-05-25T21:08:04Z" user="bbmiller" uid="451048" lat="41.9435601" lon="-87.6548171"/>
+ <node id="1765570734" visible="true" version="1" changeset="11702004" timestamp="2012-05-25T21:08:04Z" user="bbmiller" uid="451048" lat="41.9344424" lon="-87.6545381"/>
+ <node id="1765570736" visible="true" version="1" changeset="11702004" timestamp="2012-05-25T21:08:04Z" user="bbmiller" uid="451048" lat="41.9444641" lon="-87.6548759"/>
+ <node id="1765570741" visible="true" version="1" changeset="11702004" timestamp="2012-05-25T21:08:04Z" user="bbmiller" uid="451048" lat="41.9330912" lon="-87.6538715"/>
+ <node id="1765570745" visible="true" version="1" changeset="11702004" timestamp="2012-05-25T21:08:04Z" user="bbmiller" uid="451048" lat="41.9349011" lon="-87.6545519"/>
+ <node id="1765570752" visible="true" version="1" changeset="11702004" timestamp="2012-05-25T21:08:04Z" user="bbmiller" uid="451048" lat="41.9399024" lon="-87.6547313"/>
+ <node id="1765570748" visible="true" version="2" changeset="18521258" timestamp="2013-10-24T15:06:01Z" user="bbmiller" uid="451048" lat="41.9353469" lon="-87.6545648"/>
+ <node id="1765570757" visible="true" version="2" changeset="13631945" timestamp="2012-10-25T21:28:10Z" user="bbmiller" uid="451048" lat="41.9362744" lon="-87.6545906"/>
+ <node id="1765570735" visible="true" version="2" changeset="13188140" timestamp="2012-09-20T21:03:04Z" user="bbmiller" uid="451048" lat="41.9321764" lon="-87.6538323"/>
+ <node id="1842179834" visible="true" version="1" changeset="12530359" timestamp="2012-07-29T03:59:07Z" user="iandees" uid="4732" lat="41.9166317" lon="-87.6532976"/>
+ <node id="1842179846" visible="true" version="1" changeset="12530359" timestamp="2012-07-29T03:59:07Z" user="iandees" uid="4732" lat="41.9185617" lon="-87.6533882"/>
+ <node id="1842180010" visible="true" version="1" changeset="12530359" timestamp="2012-07-29T03:59:13Z" user="iandees" uid="4732" lat="41.9259078" lon="-87.6536240"/>
+ <node id="262171727" visible="true" version="29" changeset="13460083" timestamp="2012-10-11T21:12:24Z" user="bbmiller" uid="451048" lat="41.9399605" lon="-87.6500894"/>
+ <node id="262172157" visible="true" version="22" changeset="13460083" timestamp="2012-10-11T21:12:24Z" user="bbmiller" uid="451048" lat="41.9389446" lon="-87.6540754"/>
+ <node id="26808056" visible="true" version="17" changeset="13460083" timestamp="2012-10-11T21:12:24Z" user="bbmiller" uid="451048" lat="41.9399528" lon="-87.6506707">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="308430597" visible="true" version="12" changeset="13460083" timestamp="2012-10-11T21:12:26Z" user="bbmiller" uid="451048" lat="41.9444598" lon="-87.6542680">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="286368851" visible="true" version="31" changeset="13631945" timestamp="2012-10-25T20:39:52Z" user="bbmiller" uid="451048" lat="41.9235584" lon="-87.6535510"/>
+ <node id="2012532409" visible="true" version="1" changeset="13861262" timestamp="2012-11-13T16:11:21Z" user="bbmiller" uid="451048" lat="41.9371138" lon="-87.6540000"/>
+ <node id="2014252624" visible="true" version="1" changeset="13874144" timestamp="2012-11-14T19:41:33Z" user="bbmiller" uid="451048" lat="41.9267727" lon="-87.6536493"/>
+ <node id="2324274681" visible="true" version="1" changeset="16337750" timestamp="2013-05-29T12:59:49Z" user="Umbugbene" uid="567034" lat="41.9228057" lon="-87.6535243"/>
+ <node id="265641496" visible="true" version="23" changeset="16337750" timestamp="2013-05-29T12:59:50Z" user="Umbugbene" uid="567034" lat="41.9199230" lon="-87.6534299"/>
+ <node id="1842179890" visible="true" version="2" changeset="16337750" timestamp="2013-05-29T12:59:50Z" user="Umbugbene" uid="567034" lat="41.9212911" lon="-87.6534734"/>
+ <node id="1842179912" visible="true" version="2" changeset="16337750" timestamp="2013-05-29T12:59:50Z" user="Umbugbene" uid="567034" lat="41.9221652" lon="-87.6535015"/>
+ <node id="250756039" visible="true" version="31" changeset="27409775" timestamp="2014-12-11T21:20:29Z" user="korky99_04" uid="188805" lat="41.9217435" lon="-87.6534899">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2109658731" visible="true" version="1" changeset="14641363" timestamp="2013-01-13T21:33:13Z" user="mappy123" uid="15398" lat="41.9113000" lon="-87.6531210"/>
+ <node id="2174736573" visible="true" version="1" changeset="15170092" timestamp="2013-02-26T07:51:26Z" user="Umbugbene" uid="567034" lat="41.9398655" lon="-87.6571392"/>
+ <node id="2174736586" visible="true" version="1" changeset="15170092" timestamp="2013-02-26T07:51:26Z" user="Umbugbene" uid="567034" lat="41.9417163" lon="-87.6559858"/>
+ <node id="2174736588" visible="true" version="1" changeset="15170092" timestamp="2013-02-26T07:51:26Z" user="Umbugbene" uid="567034" lat="41.9435396" lon="-87.6560396"/>
+ <node id="2174736593" visible="true" version="1" changeset="15170092" timestamp="2013-02-26T07:51:26Z" user="Umbugbene" uid="567034" lat="41.9444473" lon="-87.6560638"/>
+ <node id="2174736616" visible="true" version="1" changeset="15170092" timestamp="2013-02-26T07:51:26Z" user="Umbugbene" uid="567034" lat="41.9398858" lon="-87.6559295"/>
+ <node id="2174736621" visible="true" version="1" changeset="15170092" timestamp="2013-02-26T07:51:26Z" user="Umbugbene" uid="567034" lat="41.9449123" lon="-87.6560739"/>
+ <node id="308430830" visible="true" version="28" changeset="15170092" timestamp="2013-02-26T07:51:28Z" user="Umbugbene" uid="567034" lat="41.9398568" lon="-87.6577457"/>
+ <node id="2204067478" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:43Z" user="chicago-buildings" uid="674454" lat="41.9399724" lon="-87.6552046"/>
+ <node id="2204067479" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:43Z" user="chicago-buildings" uid="674454" lat="41.9399738" lon="-87.6552101"/>
+ <node id="2204067480" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:43Z" user="chicago-buildings" uid="674454" lat="41.9399765" lon="-87.6551953"/>
+ <node id="2204067481" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:43Z" user="chicago-buildings" uid="674454" lat="41.9399766" lon="-87.6552155"/>
+ <node id="2204067482" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:43Z" user="chicago-buildings" uid="674454" lat="41.9399821" lon="-87.6552192"/>
+ <node id="2204067483" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:43Z" user="chicago-buildings" uid="674454" lat="41.9399847" lon="-87.6551916"/>
+ <node id="2204067484" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:43Z" user="chicago-buildings" uid="674454" lat="41.9399862" lon="-87.6552191"/>
+ <node id="2204067485" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:43Z" user="chicago-buildings" uid="674454" lat="41.9399878" lon="-87.6550280"/>
+ <node id="2204067486" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9399889" lon="-87.6552173"/>
+ <node id="2204067487" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9399944" lon="-87.6552080"/>
+ <node id="2204067488" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9400049" lon="-87.6539711"/>
+ <node id="2204067489" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9400120" lon="-87.6535538"/>
+ <node id="2204067491" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9400201" lon="-87.6539893"/>
+ <node id="2204067492" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9400243" lon="-87.6535335"/>
+ <node id="2204067494" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9400611" lon="-87.6551228"/>
+ <node id="2204067496" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9400660" lon="-87.6550308"/>
+ <node id="2204067498" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9400665" lon="-87.6551098"/>
+ <node id="2204067499" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9400666" lon="-87.6551337"/>
+ <node id="2204067501" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9400675" lon="-87.6550473"/>
+ <node id="2204067505" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9400825" lon="-87.6550306"/>
+ <node id="2204067506" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9400871" lon="-87.6551096"/>
+ <node id="2204067507" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9400872" lon="-87.6551335"/>
+ <node id="2204067509" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9400987" lon="-87.6538267"/>
+ <node id="2204067510" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9401000" lon="-87.6538065"/>
+ <node id="2204067512" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9401399" lon="-87.6538281"/>
+ <node id="2204067513" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9401420" lon="-87.6538097"/>
+ <node id="2204067514" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9401425" lon="-87.6538097"/>
+ <node id="2204067516" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9401714" lon="-87.6552135"/>
+ <node id="2204067519" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9401745" lon="-87.6550333"/>
+ <node id="2204067520" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9401844" lon="-87.6539306"/>
+ <node id="2204067521" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9401865" lon="-87.6538276"/>
+ <node id="2204067522" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9401885" lon="-87.6536953"/>
+ <node id="2204067523" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9401903" lon="-87.6535372"/>
+ <node id="2204067528" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9401981" lon="-87.6539323"/>
+ <node id="2204067529" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9401990" lon="-87.6538477"/>
+ <node id="2204067530" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9402234" lon="-87.6537960"/>
+ <node id="2204067531" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9402258" lon="-87.6537353"/>
+ <node id="2204067536" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9402781" lon="-87.6539976"/>
+ <node id="2204067537" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:02:44Z" user="chicago-buildings" uid="674454" lat="41.9402813" lon="-87.6538505"/>
+ <node id="2204092713" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:28:56Z" user="chicago-buildings" uid="674454" lat="41.9389331" lon="-87.6546070"/>
+ <node id="2204092750" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:28:56Z" user="chicago-buildings" uid="674454" lat="41.9389412" lon="-87.6542222"/>
+ <node id="2204093773" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:07Z" user="chicago-buildings" uid="674454" lat="41.9391323" lon="-87.6542321"/>
+ <node id="2204093777" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:07Z" user="chicago-buildings" uid="674454" lat="41.9391324" lon="-87.6542618"/>
+ <node id="2204094581" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:34Z" user="chicago-buildings" uid="674454" lat="41.9393292" lon="-87.6542260"/>
+ <node id="2204094598" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:35Z" user="chicago-buildings" uid="674454" lat="41.9393323" lon="-87.6542637"/>
+ <node id="2204094767" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:39Z" user="chicago-buildings" uid="674454" lat="41.9393821" lon="-87.6560819"/>
+ <node id="2204094771" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:39Z" user="chicago-buildings" uid="674454" lat="41.9393828" lon="-87.6559680"/>
+ <node id="2204094782" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:39Z" user="chicago-buildings" uid="674454" lat="41.9393851" lon="-87.6563686"/>
+ <node id="2204094788" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:39Z" user="chicago-buildings" uid="674454" lat="41.9393880" lon="-87.6561590"/>
+ <node id="2204094790" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:39Z" user="chicago-buildings" uid="674454" lat="41.9393906" lon="-87.6556683"/>
+ <node id="2204094797" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:39Z" user="chicago-buildings" uid="674454" lat="41.9393949" lon="-87.6554680"/>
+ <node id="2204094803" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:40Z" user="chicago-buildings" uid="674454" lat="41.9393984" lon="-87.6539647"/>
+ <node id="2204094804" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:40Z" user="chicago-buildings" uid="674454" lat="41.9393998" lon="-87.6551298"/>
+ <node id="2204094812" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:40Z" user="chicago-buildings" uid="674454" lat="41.9394047" lon="-87.6548081"/>
+ <node id="2204094813" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:40Z" user="chicago-buildings" uid="674454" lat="41.9394054" lon="-87.6549129"/>
+ <node id="2204094814" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:40Z" user="chicago-buildings" uid="674454" lat="41.9394057" lon="-87.6547401"/>
+ <node id="2204094815" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:40Z" user="chicago-buildings" uid="674454" lat="41.9394059" lon="-87.6557068"/>
+ <node id="2204094816" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:40Z" user="chicago-buildings" uid="674454" lat="41.9394066" lon="-87.6535070"/>
+ <node id="2204094821" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:40Z" user="chicago-buildings" uid="674454" lat="41.9394071" lon="-87.6556682"/>
+ <node id="2204094907" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:42Z" user="chicago-buildings" uid="674454" lat="41.9394390" lon="-87.6559674"/>
+ <node id="2204094909" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:42Z" user="chicago-buildings" uid="674454" lat="41.9394397" lon="-87.6560813"/>
+ <node id="2204094910" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:42Z" user="chicago-buildings" uid="674454" lat="41.9394400" lon="-87.6563698"/>
+ <node id="2204094918" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:42Z" user="chicago-buildings" uid="674454" lat="41.9394429" lon="-87.6561603"/>
+ <node id="2204094919" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:42Z" user="chicago-buildings" uid="674454" lat="41.9394430" lon="-87.6557082"/>
+ <node id="2204094926" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:42Z" user="chicago-buildings" uid="674454" lat="41.9394471" lon="-87.6554693"/>
+ <node id="2204094940" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:43Z" user="chicago-buildings" uid="674454" lat="41.9394555" lon="-87.6548094"/>
+ <node id="2204094942" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:43Z" user="chicago-buildings" uid="674454" lat="41.9394565" lon="-87.6547414"/>
+ <node id="2204094950" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:43Z" user="chicago-buildings" uid="674454" lat="41.9394615" lon="-87.6551328"/>
+ <node id="2204094960" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:43Z" user="chicago-buildings" uid="674454" lat="41.9394658" lon="-87.6549159"/>
+ <node id="2204094977" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:43Z" user="chicago-buildings" uid="674454" lat="41.9394718" lon="-87.6564007"/>
+ <node id="2204094998" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:44Z" user="chicago-buildings" uid="674454" lat="41.9394792" lon="-87.6560368"/>
+ <node id="2204095007" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:44Z" user="chicago-buildings" uid="674454" lat="41.9394834" lon="-87.6555773"/>
+ <node id="2204095011" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:44Z" user="chicago-buildings" uid="674454" lat="41.9394853" lon="-87.6554431"/>
+ <node id="2204095018" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:44Z" user="chicago-buildings" uid="674454" lat="41.9394904" lon="-87.6551398"/>
+ <node id="2204095019" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:44Z" user="chicago-buildings" uid="674454" lat="41.9394909" lon="-87.6549983"/>
+ <node id="2204095020" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:44Z" user="chicago-buildings" uid="674454" lat="41.9394918" lon="-87.6549138"/>
+ <node id="2204095024" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:45Z" user="chicago-buildings" uid="674454" lat="41.9394937" lon="-87.6550075"/>
+ <node id="2204095027" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:45Z" user="chicago-buildings" uid="674454" lat="41.9394945" lon="-87.6549082"/>
+ <node id="2204095030" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:45Z" user="chicago-buildings" uid="674454" lat="41.9394967" lon="-87.6548126"/>
+ <node id="2204095031" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:45Z" user="chicago-buildings" uid="674454" lat="41.9394967" lon="-87.6548182"/>
+ <node id="2204095035" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:45Z" user="chicago-buildings" uid="674454" lat="41.9395004" lon="-87.6547354"/>
+ <node id="2204095046" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:45Z" user="chicago-buildings" uid="674454" lat="41.9395083" lon="-87.6556156"/>
+ <node id="2204095047" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:45Z" user="chicago-buildings" uid="674454" lat="41.9395094" lon="-87.6557057"/>
+ <node id="2204095049" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:45Z" user="chicago-buildings" uid="674454" lat="41.9395107" lon="-87.6557957"/>
+ <node id="2204095071" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:46Z" user="chicago-buildings" uid="674454" lat="41.9395250" lon="-87.6551854"/>
+ <node id="2204095079" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:46Z" user="chicago-buildings" uid="674454" lat="41.9395314" lon="-87.6546245"/>
+ <node id="2204095087" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:46Z" user="chicago-buildings" uid="674454" lat="41.9395361" lon="-87.6554444"/>
+ <node id="2204095088" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:46Z" user="chicago-buildings" uid="674454" lat="41.9395364" lon="-87.6542254"/>
+ <node id="2204095094" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:46Z" user="chicago-buildings" uid="674454" lat="41.9395388" lon="-87.6554315"/>
+ <node id="2204095103" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:46Z" user="chicago-buildings" uid="674454" lat="41.9395424" lon="-87.6546523"/>
+ <node id="2204095109" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:46Z" user="chicago-buildings" uid="674454" lat="41.9395443" lon="-87.6545144"/>
+ <node id="2204095112" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:46Z" user="chicago-buildings" uid="674454" lat="41.9395457" lon="-87.6545144"/>
+ <node id="2204095119" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:47Z" user="chicago-buildings" uid="674454" lat="41.9395495" lon="-87.6542203"/>
+ <node id="2204095127" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:47Z" user="chicago-buildings" uid="674454" lat="41.9395525" lon="-87.6547367"/>
+ <node id="2204095151" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:47Z" user="chicago-buildings" uid="674454" lat="41.9395650" lon="-87.6547623"/>
+ <node id="2204095181" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:48Z" user="chicago-buildings" uid="674454" lat="41.9395783" lon="-87.6558593"/>
+ <node id="2204095186" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:29:48Z" user="chicago-buildings" uid="674454" lat="41.9395794" lon="-87.6558115"/>
+ <node id="2204095228" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:01Z" user="chicago-buildings" uid="674454" lat="41.9395849" lon="-87.6560320"/>
+ <node id="2204095233" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:01Z" user="chicago-buildings" uid="674454" lat="41.9395879" lon="-87.6556185"/>
+ <node id="2204095234" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:01Z" user="chicago-buildings" uid="674454" lat="41.9395883" lon="-87.6559254"/>
+ <node id="2204095238" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:01Z" user="chicago-buildings" uid="674454" lat="41.9395904" lon="-87.6555853"/>
+ <node id="2204095240" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:01Z" user="chicago-buildings" uid="674454" lat="41.9395914" lon="-87.6548098"/>
+ <node id="2204095241" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:01Z" user="chicago-buildings" uid="674454" lat="41.9395914" lon="-87.6548172"/>
+ <node id="2204096228" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:32Z" user="chicago-buildings" uid="674454" lat="41.9399765" lon="-87.6554379"/>
+ <node id="2204096229" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:32Z" user="chicago-buildings" uid="674454" lat="41.9399765" lon="-87.6559010"/>
+ <node id="2204096230" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:32Z" user="chicago-buildings" uid="674454" lat="41.9399785" lon="-87.6555390"/>
+ <node id="2204096231" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399787" lon="-87.6558165"/>
+ <node id="2204096232" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399793" lon="-87.6549876"/>
+ <node id="2204096233" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399794" lon="-87.6550042"/>
+ <node id="2204096234" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399795" lon="-87.6554746"/>
+ <node id="2204096239" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399810" lon="-87.6564284"/>
+ <node id="2204096240" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399812" lon="-87.6555408"/>
+ <node id="2204096246" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399837" lon="-87.6564210"/>
+ <node id="2204096247" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399847" lon="-87.6554360"/>
+ <node id="2204096249" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399870" lon="-87.6558164"/>
+ <node id="2204096252" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399900" lon="-87.6549306"/>
+ <node id="2204096253" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399900" lon="-87.6549361"/>
+ <node id="2204096254" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399902" lon="-87.6549728"/>
+ <node id="2204096255" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399905" lon="-87.6550224"/>
+ <node id="2204096256" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399912" lon="-87.6546677"/>
+ <node id="2204096258" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399916" lon="-87.6548397"/>
+ <node id="2204096259" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399916" lon="-87.6554359"/>
+ <node id="2204096262" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399931" lon="-87.6547541"/>
+ <node id="2204096263" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399956" lon="-87.6542579"/>
+ <node id="2204096265" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9399971" lon="-87.6554414"/>
+ <node id="2204096267" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9400013" lon="-87.6554487"/>
+ <node id="2204096273" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9400119" lon="-87.6546932"/>
+ <node id="2204096274" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:33Z" user="chicago-buildings" uid="674454" lat="41.9400188" lon="-87.6542337"/>
+ <node id="2204096276" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:34Z" user="chicago-buildings" uid="674454" lat="41.9400205" lon="-87.6554485"/>
+ <node id="2204096278" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:34Z" user="chicago-buildings" uid="674454" lat="41.9400245" lon="-87.6559024"/>
+ <node id="2204096283" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:34Z" user="chicago-buildings" uid="674454" lat="41.9400287" lon="-87.6554374"/>
+ <node id="2204096289" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:34Z" user="chicago-buildings" uid="674454" lat="41.9400315" lon="-87.6559152"/>
+ <node id="2204096309" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:34Z" user="chicago-buildings" uid="674454" lat="41.9400437" lon="-87.6554372"/>
+ <node id="2204095257" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:02Z" user="chicago-buildings" uid="674454" lat="41.9395964" lon="-87.6547289"/>
+ <node id="2204095284" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:03Z" user="chicago-buildings" uid="674454" lat="41.9396089" lon="-87.6559196"/>
+ <node id="2204095287" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:03Z" user="chicago-buildings" uid="674454" lat="41.9396099" lon="-87.6558626"/>
+ <node id="2204095311" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:03Z" user="chicago-buildings" uid="674454" lat="41.9396276" lon="-87.6549050"/>
+ <node id="2204095312" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:03Z" user="chicago-buildings" uid="674454" lat="41.9396276" lon="-87.6549123"/>
+ <node id="2204095313" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:03Z" user="chicago-buildings" uid="674454" lat="41.9396289" lon="-87.6539714"/>
+ <node id="2204095332" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:04Z" user="chicago-buildings" uid="674454" lat="41.9396344" lon="-87.6539732"/>
+ <node id="2204095336" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:04Z" user="chicago-buildings" uid="674454" lat="41.9396358" lon="-87.6535137"/>
+ <node id="2204095341" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:04Z" user="chicago-buildings" uid="674454" lat="41.9396427" lon="-87.6535118"/>
+ <node id="2204095405" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:05Z" user="chicago-buildings" uid="674454" lat="41.9396632" lon="-87.6546547"/>
+ <node id="2204095406" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:05Z" user="chicago-buildings" uid="674454" lat="41.9396633" lon="-87.6546804"/>
+ <node id="2204095439" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:06Z" user="chicago-buildings" uid="674454" lat="41.9396797" lon="-87.6558343"/>
+ <node id="2204095443" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:06Z" user="chicago-buildings" uid="674454" lat="41.9396810" lon="-87.6558159"/>
+ <node id="2204095702" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:12Z" user="chicago-buildings" uid="674454" lat="41.9397772" lon="-87.6558407"/>
+ <node id="2204095708" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:12Z" user="chicago-buildings" uid="674454" lat="41.9397799" lon="-87.6558333"/>
+ <node id="2204095716" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:12Z" user="chicago-buildings" uid="674454" lat="41.9397840" lon="-87.6549107"/>
+ <node id="2204095718" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:12Z" user="chicago-buildings" uid="674454" lat="41.9397847" lon="-87.6564103"/>
+ <node id="2204095719" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:12Z" user="chicago-buildings" uid="674454" lat="41.9397849" lon="-87.6548298"/>
+ <node id="2204095720" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:13Z" user="chicago-buildings" uid="674454" lat="41.9397854" lon="-87.6558295"/>
+ <node id="2204095724" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:13Z" user="chicago-buildings" uid="674454" lat="41.9397880" lon="-87.6560427"/>
+ <node id="2204095734" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:13Z" user="chicago-buildings" uid="674454" lat="41.9397908" lon="-87.6560482"/>
+ <node id="2204095737" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:13Z" user="chicago-buildings" uid="674454" lat="41.9397915" lon="-87.6559361"/>
+ <node id="2204095739" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:13Z" user="chicago-buildings" uid="674454" lat="41.9397922" lon="-87.6558276"/>
+ <node id="2204095743" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:13Z" user="chicago-buildings" uid="674454" lat="41.9397927" lon="-87.6554454"/>
+ <node id="2204095745" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:13Z" user="chicago-buildings" uid="674454" lat="41.9397935" lon="-87.6558074"/>
+ <node id="2204095747" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:13Z" user="chicago-buildings" uid="674454" lat="41.9397942" lon="-87.6559305"/>
+ <node id="2204095752" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:13Z" user="chicago-buildings" uid="674454" lat="41.9397954" lon="-87.6557166"/>
+ <node id="2204095755" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:13Z" user="chicago-buildings" uid="674454" lat="41.9397965" lon="-87.6558625"/>
+ <node id="2204095757" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:13Z" user="chicago-buildings" uid="674454" lat="41.9397976" lon="-87.6556240"/>
+ <node id="2204095771" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:14Z" user="chicago-buildings" uid="674454" lat="41.9398005" lon="-87.6558294"/>
+ <node id="2204095772" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:14Z" user="chicago-buildings" uid="674454" lat="41.9398006" lon="-87.6558606"/>
+ <node id="2204095773" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:14Z" user="chicago-buildings" uid="674454" lat="41.9398010" lon="-87.6554655"/>
+ <node id="2204095777" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:14Z" user="chicago-buildings" uid="674454" lat="41.9398022" lon="-87.6551953"/>
+ <node id="2204095784" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:14Z" user="chicago-buildings" uid="674454" lat="41.9398052" lon="-87.6550115"/>
+ <node id="2204095787" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:14Z" user="chicago-buildings" uid="674454" lat="41.9398060" lon="-87.6558404"/>
+ <node id="2204095789" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:14Z" user="chicago-buildings" uid="674454" lat="41.9398061" lon="-87.6549251"/>
+ <node id="2204095790" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:14Z" user="chicago-buildings" uid="674454" lat="41.9398061" lon="-87.6558495"/>
+ <node id="2204095795" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:14Z" user="chicago-buildings" uid="674454" lat="41.9398066" lon="-87.6550189"/>
+ <node id="2204095799" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:14Z" user="chicago-buildings" uid="674454" lat="41.9398082" lon="-87.6548204"/>
+ <node id="2204095804" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:14Z" user="chicago-buildings" uid="674454" lat="41.9398105" lon="-87.6547395"/>
+ <node id="2204095809" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:14Z" user="chicago-buildings" uid="674454" lat="41.9398115" lon="-87.6546825"/>
+ <node id="2204095823" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:15Z" user="chicago-buildings" uid="674454" lat="41.9398170" lon="-87.6542248"/>
+ <node id="2204095829" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:15Z" user="chicago-buildings" uid="674454" lat="41.9398211" lon="-87.6539785"/>
+ <node id="2204095846" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:15Z" user="chicago-buildings" uid="674454" lat="41.9398293" lon="-87.6535172"/>
+ <node id="2204096166" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:23Z" user="chicago-buildings" uid="674454" lat="41.9399562" lon="-87.6564195"/>
+ <node id="2204096168" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:23Z" user="chicago-buildings" uid="674454" lat="41.9399576" lon="-87.6564103"/>
+ <node id="2204096174" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:23Z" user="chicago-buildings" uid="674454" lat="41.9399590" lon="-87.6564287"/>
+ <node id="2204096205" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:24Z" user="chicago-buildings" uid="674454" lat="41.9399659" lon="-87.6564341"/>
+ <node id="2204096207" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:24Z" user="chicago-buildings" uid="674454" lat="41.9399671" lon="-87.6564010"/>
+ <node id="2204096210" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:24Z" user="chicago-buildings" uid="674454" lat="41.9399684" lon="-87.6554564"/>
+ <node id="2204096220" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:24Z" user="chicago-buildings" uid="674454" lat="41.9399711" lon="-87.6554435"/>
+ <node id="2204096221" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:24Z" user="chicago-buildings" uid="674454" lat="41.9399712" lon="-87.6554655"/>
+ <node id="2204096223" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:24Z" user="chicago-buildings" uid="674454" lat="41.9399728" lon="-87.6559654"/>
+ <node id="2204096224" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:24Z" user="chicago-buildings" uid="674454" lat="41.9399728" lon="-87.6564340"/>
+ <node id="2204096227" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:24Z" user="chicago-buildings" uid="674454" lat="41.9399760" lon="-87.6558165"/>
+ <node id="2204096316" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:34Z" user="chicago-buildings" uid="674454" lat="41.9400493" lon="-87.6559168"/>
+ <node id="2204096320" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:34Z" user="chicago-buildings" uid="674454" lat="41.9400509" lon="-87.6564222"/>
+ <node id="2204096327" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:35Z" user="chicago-buildings" uid="674454" lat="41.9400534" lon="-87.6554500"/>
+ <node id="2204096328" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:35Z" user="chicago-buildings" uid="674454" lat="41.9400539" lon="-87.6555271"/>
+ <node id="2204096329" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:35Z" user="chicago-buildings" uid="674454" lat="41.9400540" lon="-87.6555418"/>
+ <node id="2204096335" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:35Z" user="chicago-buildings" uid="674454" lat="41.9400561" lon="-87.6559039"/>
+ <node id="2204096345" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:35Z" user="chicago-buildings" uid="674454" lat="41.9400606" lon="-87.6564331"/>
+ <node id="2204096354" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:35Z" user="chicago-buildings" uid="674454" lat="41.9400715" lon="-87.6550253"/>
+ <node id="2204096356" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:35Z" user="chicago-buildings" uid="674454" lat="41.9400727" lon="-87.6549922"/>
+ <node id="2204096360" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:35Z" user="chicago-buildings" uid="674454" lat="41.9400776" lon="-87.6558209"/>
+ <node id="2204096361" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:35Z" user="chicago-buildings" uid="674454" lat="41.9400777" lon="-87.6558375"/>
+ <node id="2204096364" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:35Z" user="chicago-buildings" uid="674454" lat="41.9400812" lon="-87.6564329"/>
+ <node id="2204096365" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:35Z" user="chicago-buildings" uid="674454" lat="41.9400813" lon="-87.6555287"/>
+ <node id="2204096366" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:35Z" user="chicago-buildings" uid="674454" lat="41.9400814" lon="-87.6555434"/>
+ <node id="2204096371" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:36Z" user="chicago-buildings" uid="674454" lat="41.9400862" lon="-87.6549571"/>
+ <node id="2204096373" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:36Z" user="chicago-buildings" uid="674454" lat="41.9400875" lon="-87.6549387"/>
+ <node id="2204096374" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:36Z" user="chicago-buildings" uid="674454" lat="41.9400880" lon="-87.6564236"/>
+ <node id="2204096377" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:36Z" user="chicago-buildings" uid="674454" lat="41.9400891" lon="-87.6549938"/>
+ <node id="2204096378" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:36Z" user="chicago-buildings" uid="674454" lat="41.9400893" lon="-87.6550177"/>
+ <node id="2204096386" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:36Z" user="chicago-buildings" uid="674454" lat="41.9400999" lon="-87.6549570"/>
+ <node id="2204096394" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:36Z" user="chicago-buildings" uid="674454" lat="41.9401094" lon="-87.6549385"/>
+ <node id="2204096399" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:36Z" user="chicago-buildings" uid="674454" lat="41.9401161" lon="-87.6558371"/>
+ <node id="2204096401" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:36Z" user="chicago-buildings" uid="674454" lat="41.9401174" lon="-87.6558224"/>
+ <node id="2204096444" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:37Z" user="chicago-buildings" uid="674454" lat="41.9401514" lon="-87.6555463"/>
+ <node id="2204096457" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:37Z" user="chicago-buildings" uid="674454" lat="41.9401577" lon="-87.6554525"/>
+ <node id="2204096461" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:37Z" user="chicago-buildings" uid="674454" lat="41.9401609" lon="-87.6555334"/>
+ <node id="2204096470" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:38Z" user="chicago-buildings" uid="674454" lat="41.9401634" lon="-87.6550206"/>
+ <node id="2204096475" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:38Z" user="chicago-buildings" uid="674454" lat="41.9401657" lon="-87.6549397"/>
+ <node id="2204096478" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:38Z" user="chicago-buildings" uid="674454" lat="41.9401686" lon="-87.6554414"/>
+ <node id="2204096498" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:38Z" user="chicago-buildings" uid="674454" lat="41.9401788" lon="-87.6555313"/>
+ <node id="2204096500" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:38Z" user="chicago-buildings" uid="674454" lat="41.9401810" lon="-87.6554431"/>
+ <node id="2204096502" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:38Z" user="chicago-buildings" uid="674454" lat="41.9401824" lon="-87.6559080"/>
+ <node id="2204096505" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:38Z" user="chicago-buildings" uid="674454" lat="41.9401832" lon="-87.6558253"/>
+ <node id="2204096509" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:39Z" user="chicago-buildings" uid="674454" lat="41.9401879" lon="-87.6554541"/>
+ <node id="2204096510" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:39Z" user="chicago-buildings" uid="674454" lat="41.9401885" lon="-87.6555459"/>
+ <node id="2204096513" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:39Z" user="chicago-buildings" uid="674454" lat="41.9401898" lon="-87.6548465"/>
+ <node id="2204096514" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:39Z" user="chicago-buildings" uid="674454" lat="41.9401920" lon="-87.6547593"/>
+ <node id="2204096524" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:39Z" user="chicago-buildings" uid="674454" lat="41.9401970" lon="-87.6558233"/>
+ <node id="2204096529" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:39Z" user="chicago-buildings" uid="674454" lat="41.9401999" lon="-87.6546993"/>
+ <node id="2204096532" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:39Z" user="chicago-buildings" uid="674454" lat="41.9402022" lon="-87.6555476"/>
+ <node id="2204096537" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:39Z" user="chicago-buildings" uid="674454" lat="41.9402071" lon="-87.6542387"/>
+ <node id="2204096547" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:39Z" user="chicago-buildings" uid="674454" lat="41.9402118" lon="-87.6548473"/>
+ <node id="2204096548" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:39Z" user="chicago-buildings" uid="674454" lat="41.9402118" lon="-87.6548602"/>
+ <node id="2204096594" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:41Z" user="chicago-buildings" uid="674454" lat="41.9402379" lon="-87.6548618"/>
+ <node id="2204096595" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:41Z" user="chicago-buildings" uid="674454" lat="41.9402392" lon="-87.6548470"/>
+ <node id="2204096607" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:41Z" user="chicago-buildings" uid="674454" lat="41.9402444" lon="-87.6564275"/>
+ <node id="2204096613" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:41Z" user="chicago-buildings" uid="674454" lat="41.9402483" lon="-87.6561481"/>
+ <node id="2204096684" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:42Z" user="chicago-buildings" uid="674454" lat="41.9402845" lon="-87.6555486"/>
+ <node id="2204096686" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:42Z" user="chicago-buildings" uid="674454" lat="41.9402853" lon="-87.6554567"/>
+ <node id="2204096701" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:43Z" user="chicago-buildings" uid="674454" lat="41.9402891" lon="-87.6549384"/>
+ <node id="2204096709" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:43Z" user="chicago-buildings" uid="674454" lat="41.9402914" lon="-87.6548502"/>
+ <node id="2204096740" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:44Z" user="chicago-buildings" uid="674454" lat="41.9403141" lon="-87.6561492"/>
+ <node id="2204096742" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:44Z" user="chicago-buildings" uid="674454" lat="41.9403158" lon="-87.6559746"/>
+ <node id="2204096749" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:44Z" user="chicago-buildings" uid="674454" lat="41.9403226" lon="-87.6545595"/>
+ <node id="2204096752" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:44Z" user="chicago-buildings" uid="674454" lat="41.9403244" lon="-87.6544032"/>
+ <node id="2204096829" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:45Z" user="chicago-buildings" uid="674454" lat="41.9404044" lon="-87.6547056"/>
+ <node id="2204096831" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:45Z" user="chicago-buildings" uid="674454" lat="41.9404063" lon="-87.6545623"/>
+ <node id="2204096833" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:45Z" user="chicago-buildings" uid="674454" lat="41.9404067" lon="-87.6544060"/>
+ <node id="2204096839" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:45Z" user="chicago-buildings" uid="674454" lat="41.9404099" lon="-87.6542443"/>
+ <node id="2204101437" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:19Z" user="chicago-buildings" uid="674454" lat="41.9402891" lon="-87.6539975"/>
+ <node id="2204101443" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:19Z" user="chicago-buildings" uid="674454" lat="41.9402942" lon="-87.6537034"/>
+ <node id="2204101470" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:20Z" user="chicago-buildings" uid="674454" lat="41.9403199" lon="-87.6557375"/>
+ <node id="2204101474" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:20Z" user="chicago-buildings" uid="674454" lat="41.9403241" lon="-87.6555077"/>
+ <node id="2204101476" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:20Z" user="chicago-buildings" uid="674454" lat="41.9403253" lon="-87.6554912"/>
+ <node id="2204101478" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:20Z" user="chicago-buildings" uid="674454" lat="41.9403254" lon="-87.6555077"/>
+ <node id="2204101479" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:20Z" user="chicago-buildings" uid="674454" lat="41.9403262" lon="-87.6551751"/>
+ <node id="2204101480" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:20Z" user="chicago-buildings" uid="674454" lat="41.9403264" lon="-87.6558992"/>
+ <node id="2204101481" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:20Z" user="chicago-buildings" uid="674454" lat="41.9403273" lon="-87.6558146"/>
+ <node id="2204101484" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:20Z" user="chicago-buildings" uid="674454" lat="41.9403304" lon="-87.6549563"/>
+ <node id="2204101488" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:20Z" user="chicago-buildings" uid="674454" lat="41.9403381" lon="-87.6548662"/>
+ <node id="2204101489" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:20Z" user="chicago-buildings" uid="674454" lat="41.9403395" lon="-87.6537047"/>
+ <node id="2204101490" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:20Z" user="chicago-buildings" uid="674454" lat="41.9403403" lon="-87.6547633"/>
+ <node id="2204101491" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:20Z" user="chicago-buildings" uid="674454" lat="41.9403407" lon="-87.6536753"/>
+ <node id="2204101497" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:20Z" user="chicago-buildings" uid="674454" lat="41.9403496" lon="-87.6551895"/>
+ <node id="2204101499" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:20Z" user="chicago-buildings" uid="674454" lat="41.9403509" lon="-87.6551748"/>
+ <node id="2204101512" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:21Z" user="chicago-buildings" uid="674454" lat="41.9403610" lon="-87.6554927"/>
+ <node id="2204101513" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:21Z" user="chicago-buildings" uid="674454" lat="41.9403611" lon="-87.6555055"/>
+ <node id="2204101544" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:21Z" user="chicago-buildings" uid="674454" lat="41.9403779" lon="-87.6548676"/>
+ <node id="2204101545" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:21Z" user="chicago-buildings" uid="674454" lat="41.9403780" lon="-87.6548823"/>
+ <node id="2204101556" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:21Z" user="chicago-buildings" uid="674454" lat="41.9403831" lon="-87.6557405"/>
+ <node id="2204101561" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:21Z" user="chicago-buildings" uid="674454" lat="41.9403840" lon="-87.6559004"/>
+ <node id="2204101566" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:21Z" user="chicago-buildings" uid="674454" lat="41.9403849" lon="-87.6558177"/>
+ <node id="2204101569" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:22Z" user="chicago-buildings" uid="674454" lat="41.9403872" lon="-87.6555052"/>
+ <node id="2204101574" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:22Z" user="chicago-buildings" uid="674454" lat="41.9403909" lon="-87.6563745"/>
+ <node id="2204101583" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:22Z" user="chicago-buildings" uid="674454" lat="41.9403922" lon="-87.6551909"/>
+ <node id="2204101584" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:22Z" user="chicago-buildings" uid="674454" lat="41.9403926" lon="-87.6561999"/>
+ <node id="2204101595" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:22Z" user="chicago-buildings" uid="674454" lat="41.9403963" lon="-87.6549593"/>
+ <node id="2204101597" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:22Z" user="chicago-buildings" uid="674454" lat="41.9403975" lon="-87.6560987"/>
+ <node id="2204101599" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:22Z" user="chicago-buildings" uid="674454" lat="41.9403992" lon="-87.6551773"/>
+ <node id="2204101600" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:22Z" user="chicago-buildings" uid="674454" lat="41.9403995" lon="-87.6559701"/>
+ <node id="2204101605" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:22Z" user="chicago-buildings" uid="674454" lat="41.9404008" lon="-87.6557293"/>
+ <node id="2204101607" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:22Z" user="chicago-buildings" uid="674454" lat="41.9404013" lon="-87.6548839"/>
+ <node id="2204101609" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:22Z" user="chicago-buildings" uid="674454" lat="41.9404034" lon="-87.6547644"/>
+ <node id="2204101610" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:22Z" user="chicago-buildings" uid="674454" lat="41.9404035" lon="-87.6549276"/>
+ <node id="2204101611" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:22Z" user="chicago-buildings" uid="674454" lat="41.9404046" lon="-87.6559057"/>
+ <node id="2204101612" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:22Z" user="chicago-buildings" uid="674454" lat="41.9404047" lon="-87.6548515"/>
+ <node id="2204101613" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:22Z" user="chicago-buildings" uid="674454" lat="41.9404050" lon="-87.6555032"/>
+ <node id="2204101614" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:22Z" user="chicago-buildings" uid="674454" lat="41.9404051" lon="-87.6547736"/>
+ <node id="2204101618" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:22Z" user="chicago-buildings" uid="674454" lat="41.9404056" lon="-87.6558303"/>
+ <node id="2204101644" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:23Z" user="chicago-buildings" uid="674454" lat="41.9404156" lon="-87.6545034"/>
+ <node id="2204101646" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:23Z" user="chicago-buildings" uid="674454" lat="41.9404158" lon="-87.6561757"/>
+ <node id="2204101647" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:23Z" user="chicago-buildings" uid="674454" lat="41.9404160" lon="-87.6562015"/>
+ <node id="2204101650" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:23Z" user="chicago-buildings" uid="674454" lat="41.9404175" lon="-87.6540009"/>
+ <node id="2204101661" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:23Z" user="chicago-buildings" uid="674454" lat="41.9404195" lon="-87.6542442"/>
+ <node id="2204101667" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:23Z" user="chicago-buildings" uid="674454" lat="41.9404203" lon="-87.6536781"/>
+ <node id="2204101668" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:23Z" user="chicago-buildings" uid="674454" lat="41.9404213" lon="-87.6536156"/>
+ <node id="2204101683" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:23Z" user="chicago-buildings" uid="674454" lat="41.9404269" lon="-87.6557217"/>
+ <node id="2204101684" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:23Z" user="chicago-buildings" uid="674454" lat="41.9404269" lon="-87.6557309"/>
+ <node id="2204101697" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:24Z" user="chicago-buildings" uid="674454" lat="41.9404401" lon="-87.6542440"/>
+ <node id="2204101711" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:24Z" user="chicago-buildings" uid="674454" lat="41.9404496" lon="-87.6542328"/>
+ <node id="2204101712" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:24Z" user="chicago-buildings" uid="674454" lat="41.9404499" lon="-87.6563757"/>
+ <node id="2204101717" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:24Z" user="chicago-buildings" uid="674454" lat="41.9404524" lon="-87.6561000"/>
+ <node id="2204101718" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:24Z" user="chicago-buildings" uid="674454" lat="41.9404529" lon="-87.6561772"/>
+ <node id="2204101721" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:24Z" user="chicago-buildings" uid="674454" lat="41.9404534" lon="-87.6549694"/>
+ <node id="2204101723" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:24Z" user="chicago-buildings" uid="674454" lat="41.9404544" lon="-87.6559713"/>
+ <node id="2204101724" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:24Z" user="chicago-buildings" uid="674454" lat="41.9404548" lon="-87.6549297"/>
+ <node id="2204101725" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:24Z" user="chicago-buildings" uid="674454" lat="41.9404553" lon="-87.6561183"/>
+ <node id="2204101726" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:24Z" user="chicago-buildings" uid="674454" lat="41.9404554" lon="-87.6559070"/>
+ <node id="2204101727" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:24Z" user="chicago-buildings" uid="674454" lat="41.9404563" lon="-87.6558316"/>
+ <node id="2204101728" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:24Z" user="chicago-buildings" uid="674454" lat="41.9404573" lon="-87.6559897"/>
+ <node id="2204101729" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:24Z" user="chicago-buildings" uid="674454" lat="41.9404584" lon="-87.6557213"/>
+ <node id="2204101730" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:24Z" user="chicago-buildings" uid="674454" lat="41.9404607" lon="-87.6551788"/>
+ <node id="2204101733" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:24Z" user="chicago-buildings" uid="674454" lat="41.9404613" lon="-87.6555045"/>
+ <node id="2204101736" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:24Z" user="chicago-buildings" uid="674454" lat="41.9404638" lon="-87.6557084"/>
+ <node id="2204101737" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:24Z" user="chicago-buildings" uid="674454" lat="41.9404639" lon="-87.6549704"/>
+ <node id="2204101744" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:25Z" user="chicago-buildings" uid="674454" lat="41.9404668" lon="-87.6555117"/>
+ <node id="2204101748" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:25Z" user="chicago-buildings" uid="674454" lat="41.9404675" lon="-87.6542345"/>
+ <node id="2204101753" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:25Z" user="chicago-buildings" uid="674454" lat="41.9404698" lon="-87.6548531"/>
+ <node id="2204101760" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:25Z" user="chicago-buildings" uid="674454" lat="41.9404712" lon="-87.6547755"/>
+ <node id="2204101761" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:25Z" user="chicago-buildings" uid="674454" lat="41.9404719" lon="-87.6559087"/>
+ <node id="2204101763" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:25Z" user="chicago-buildings" uid="674454" lat="41.9404728" lon="-87.6558351"/>
+ <node id="2204101764" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:25Z" user="chicago-buildings" uid="674454" lat="41.9404732" lon="-87.6545046"/>
+ <node id="2204101772" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:25Z" user="chicago-buildings" uid="674454" lat="41.9404785" lon="-87.6542472"/>
+ <node id="2204101775" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:25Z" user="chicago-buildings" uid="674454" lat="41.9404800" lon="-87.6551937"/>
+ <node id="2204101777" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:25Z" user="chicago-buildings" uid="674454" lat="41.9404812" lon="-87.6540028"/>
+ <node id="2204101782" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:25Z" user="chicago-buildings" uid="674454" lat="41.9404830" lon="-87.6543152"/>
+ <node id="2204101783" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:25Z" user="chicago-buildings" uid="674454" lat="41.9404831" lon="-87.6543299"/>
+ <node id="2204101786" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:25Z" user="chicago-buildings" uid="674454" lat="41.9404841" lon="-87.6549584"/>
+ <node id="2204101794" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:25Z" user="chicago-buildings" uid="674454" lat="41.9404869" lon="-87.6544971"/>
+ <node id="2204101795" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:25Z" user="chicago-buildings" uid="674454" lat="41.9404871" lon="-87.6536168"/>
+ <node id="2204101796" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:25Z" user="chicago-buildings" uid="674454" lat="41.9404876" lon="-87.6539237"/>
+ <node id="2204101800" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:26Z" user="chicago-buildings" uid="674454" lat="41.9404888" lon="-87.6538961"/>
+ <node id="2204101804" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:26Z" user="chicago-buildings" uid="674454" lat="41.9404898" lon="-87.6543004"/>
+ <node id="2204101805" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:26Z" user="chicago-buildings" uid="674454" lat="41.9404900" lon="-87.6543390"/>
+ <node id="2204101807" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:26Z" user="chicago-buildings" uid="674454" lat="41.9404908" lon="-87.6542361"/>
+ <node id="2204101812" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:26Z" user="chicago-buildings" uid="674454" lat="41.9404931" lon="-87.6539328"/>
+ <node id="2204101813" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:26Z" user="chicago-buildings" uid="674454" lat="41.9404932" lon="-87.6548774"/>
+ <node id="2204101814" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:26Z" user="chicago-buildings" uid="674454" lat="41.9404935" lon="-87.6539879"/>
+ <node id="2204101817" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:26Z" user="chicago-buildings" uid="674454" lat="41.9404953" lon="-87.6547671"/>
+ <node id="2204101819" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:26Z" user="chicago-buildings" uid="674454" lat="41.9404956" lon="-87.6538868"/>
+ <node id="2204101823" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:26Z" user="chicago-buildings" uid="674454" lat="41.9404968" lon="-87.6536222"/>
+ <node id="2204101825" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:26Z" user="chicago-buildings" uid="674454" lat="41.9404976" lon="-87.6537655"/>
+ <node id="2204101826" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:26Z" user="chicago-buildings" uid="674454" lat="41.9404977" lon="-87.6535487"/>
+ <node id="2204101841" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:26Z" user="chicago-buildings" uid="674454" lat="41.9405031" lon="-87.6540007"/>
+ <node id="2204101862" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:27Z" user="chicago-buildings" uid="674454" lat="41.9405087" lon="-87.6561012"/>
+ <node id="2204101863" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:27Z" user="chicago-buildings" uid="674454" lat="41.9405088" lon="-87.6561196"/>
+ <node id="2204101886" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:27Z" user="chicago-buildings" uid="674454" lat="41.9405224" lon="-87.6542357"/>
+ <node id="2204101887" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:27Z" user="chicago-buildings" uid="674454" lat="41.9405224" lon="-87.6542468"/>
+ <node id="2204101889" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:27Z" user="chicago-buildings" uid="674454" lat="41.9405229" lon="-87.6564245"/>
+ <node id="2204101891" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:27Z" user="chicago-buildings" uid="674454" lat="41.9405240" lon="-87.6559099"/>
+ <node id="2204101893" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:27Z" user="chicago-buildings" uid="674454" lat="41.9405250" lon="-87.6558364"/>
+ <node id="2204101894" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:27Z" user="chicago-buildings" uid="674454" lat="41.9405251" lon="-87.6540005"/>
+ <node id="2204101899" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:27Z" user="chicago-buildings" uid="674454" lat="41.9405269" lon="-87.6561635"/>
+ <node id="2204101900" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:27Z" user="chicago-buildings" uid="674454" lat="41.9405270" lon="-87.6557114"/>
+ <node id="2204101904" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:27Z" user="chicago-buildings" uid="674454" lat="41.9405305" lon="-87.6539894"/>
+ <node id="2204101906" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:27Z" user="chicago-buildings" uid="674454" lat="41.9405313" lon="-87.6555129"/>
+ <node id="2204101908" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:27Z" user="chicago-buildings" uid="674454" lat="41.9405340" lon="-87.6557389"/>
+ <node id="2204101914" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405363" lon="-87.6551949"/>
+ <node id="2204101915" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405364" lon="-87.6559098"/>
+ <node id="2204101920" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405373" lon="-87.6558363"/>
+ <node id="2204101923" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405381" lon="-87.6555128"/>
+ <node id="2204101930" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405400" lon="-87.6551324"/>
+ <node id="2204101931" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405404" lon="-87.6549596"/>
+ <node id="2204101938" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405423" lon="-87.6550515"/>
+ <node id="2204101939" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405428" lon="-87.6549118"/>
+ <node id="2204101942" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405440" lon="-87.6548787"/>
+ <node id="2204101944" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405445" lon="-87.6544983"/>
+ <node id="2204101951" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405473" lon="-87.6551985"/>
+ <node id="2204101953" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405483" lon="-87.6551488"/>
+ <node id="2204101956" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405498" lon="-87.6547022"/>
+ <node id="2204101957" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405499" lon="-87.6542483"/>
+ <node id="2204101958" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405505" lon="-87.6550459"/>
+ <node id="2204101959" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405507" lon="-87.6546177"/>
+ <node id="2204101961" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405516" lon="-87.6549963"/>
+ <node id="2204101962" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:28Z" user="chicago-buildings" uid="674454" lat="41.9405519" lon="-87.6539906"/>
+ <node id="2204101965" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:29Z" user="chicago-buildings" uid="674454" lat="41.9405539" lon="-87.6537668"/>
+ <node id="2204101966" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:29Z" user="chicago-buildings" uid="674454" lat="41.9405541" lon="-87.6544927"/>
+ <node id="2204101967" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:29Z" user="chicago-buildings" uid="674454" lat="41.9405542" lon="-87.6552131"/>
+ <node id="2204101968" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:29Z" user="chicago-buildings" uid="674454" lat="41.9405546" lon="-87.6537418"/>
+ <node id="2204101973" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:29Z" user="chicago-buildings" uid="674454" lat="41.9405572" lon="-87.6536234"/>
+ <node id="2204101974" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:29Z" user="chicago-buildings" uid="674454" lat="41.9405576" lon="-87.6535506"/>
+ <node id="2204101975" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:29Z" user="chicago-buildings" uid="674454" lat="41.9405580" lon="-87.6539909"/>
+ <node id="2204101976" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:29Z" user="chicago-buildings" uid="674454" lat="41.9405581" lon="-87.6536410"/>
+ <node id="2204101977" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:29Z" user="chicago-buildings" uid="674454" lat="41.9405581" lon="-87.6540056"/>
+ <node id="2204101978" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:29Z" user="chicago-buildings" uid="674454" lat="41.9405581" lon="-87.6542519"/>
+ <node id="2204101992" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:29Z" user="chicago-buildings" uid="674454" lat="41.9405648" lon="-87.6560749"/>
+ <node id="2204101993" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:29Z" user="chicago-buildings" uid="674454" lat="41.9405650" lon="-87.6561025"/>
+ <node id="2204102009" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:29Z" user="chicago-buildings" uid="674454" lat="41.9405717" lon="-87.6560748"/>
+ <node id="2204102014" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:29Z" user="chicago-buildings" uid="674454" lat="41.9405721" lon="-87.6552129"/>
+ <node id="2204102016" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:29Z" user="chicago-buildings" uid="674454" lat="41.9405725" lon="-87.6559921"/>
+ <node id="2204102040" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:30Z" user="chicago-buildings" uid="674454" lat="41.9405802" lon="-87.6552000"/>
+ <node id="2204102053" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:30Z" user="chicago-buildings" uid="674454" lat="41.9405825" lon="-87.6551172"/>
+ <node id="2204102060" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:30Z" user="chicago-buildings" uid="674454" lat="41.9405833" lon="-87.6564257"/>
+ <node id="2204102064" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:30Z" user="chicago-buildings" uid="674454" lat="41.9405837" lon="-87.6550988"/>
+ <node id="2204102072" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:30Z" user="chicago-buildings" uid="674454" lat="41.9405873" lon="-87.6561647"/>
+ <node id="2204102082" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:30Z" user="chicago-buildings" uid="674454" lat="41.9405886" lon="-87.6549959"/>
+ <node id="2204102084" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9405888" lon="-87.6550253"/>
+ <node id="2204102089" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9405913" lon="-87.6563797"/>
+ <node id="2204102094" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9405926" lon="-87.6559129"/>
+ <node id="2204102097" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9405936" lon="-87.6558375"/>
+ <node id="2204102098" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9405944" lon="-87.6557401"/>
+ <node id="2204102099" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9405944" lon="-87.6562124"/>
+ <node id="2204102109" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9405985" lon="-87.6555140"/>
+ <node id="2204102114" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9406012" lon="-87.6557290"/>
+ <node id="2204102118" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9406033" lon="-87.6547035"/>
+ <node id="2204102120" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9406035" lon="-87.6552016"/>
+ <node id="2204102121" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9406042" lon="-87.6546190"/>
+ <node id="2204102122" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9406043" lon="-87.6551005"/>
+ <node id="2204102123" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9406044" lon="-87.6551170"/>
+ <node id="2204102126" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9406053" lon="-87.6550269"/>
+ <node id="2204102127" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9406054" lon="-87.6543598"/>
+ <node id="2204102128" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9406054" lon="-87.6555140"/>
+ <node id="2204102129" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9406056" lon="-87.6543819"/>
+ <node id="2204102135" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9406061" lon="-87.6547016"/>
+ <node id="2204102136" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:31Z" user="chicago-buildings" uid="674454" lat="41.9406064" lon="-87.6559127"/>
+ <node id="2204102140" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:32Z" user="chicago-buildings" uid="674454" lat="41.9406072" lon="-87.6558282"/>
+ <node id="2204102146" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:32Z" user="chicago-buildings" uid="674454" lat="41.9406084" lon="-87.6546226"/>
+ <node id="2204102147" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:32Z" user="chicago-buildings" uid="674454" lat="41.9406087" lon="-87.6549148"/>
+ <node id="2204102148" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:32Z" user="chicago-buildings" uid="674454" lat="41.9406087" lon="-87.6560818"/>
+ <node id="2204102152" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:32Z" user="chicago-buildings" uid="674454" lat="41.9406109" lon="-87.6559862"/>
+ <node id="2204102159" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:32Z" user="chicago-buildings" uid="674454" lat="41.9406120" lon="-87.6547714"/>
+ <node id="2204102163" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:32Z" user="chicago-buildings" uid="674454" lat="41.9406131" lon="-87.6544939"/>
+ <node id="2204102165" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:32Z" user="chicago-buildings" uid="674454" lat="41.9406136" lon="-87.6543469"/>
+ <node id="2204102167" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:32Z" user="chicago-buildings" uid="674454" lat="41.9406138" lon="-87.6548541"/>
+ <node id="2204102168" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:32Z" user="chicago-buildings" uid="674454" lat="41.9406142" lon="-87.6551481"/>
+ <node id="2204102170" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:32Z" user="chicago-buildings" uid="674454" lat="41.9406147" lon="-87.6547751"/>
+ <node id="2204102171" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:32Z" user="chicago-buildings" uid="674454" lat="41.9406152" lon="-87.6543818"/>
+ <node id="2204102173" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:32Z" user="chicago-buildings" uid="674454" lat="41.9406158" lon="-87.6542550"/>
+ <node id="2204102177" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:32Z" user="chicago-buildings" uid="674454" lat="41.9406170" lon="-87.6549294"/>
+ <node id="2204102180" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:32Z" user="chicago-buildings" uid="674454" lat="41.9406176" lon="-87.6543321"/>
+ <node id="2204102182" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:32Z" user="chicago-buildings" uid="674454" lat="41.9406177" lon="-87.6543542"/>
+ <node id="2204102187" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:32Z" user="chicago-buildings" uid="674454" lat="41.9406198" lon="-87.6540068"/>
+ <node id="2204102192" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:33Z" user="chicago-buildings" uid="674454" lat="41.9406228" lon="-87.6545140"/>
+ <node id="2204102194" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:33Z" user="chicago-buildings" uid="674454" lat="41.9406237" lon="-87.6536436"/>
+ <node id="2204102195" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:33Z" user="chicago-buildings" uid="674454" lat="41.9406237" lon="-87.6537432"/>
+ <node id="2204102200" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:33Z" user="chicago-buildings" uid="674454" lat="41.9406247" lon="-87.6543743"/>
+ <node id="2204102202" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:33Z" user="chicago-buildings" uid="674454" lat="41.9406267" lon="-87.6535528"/>
+ <node id="2204102204" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:33Z" user="chicago-buildings" uid="674454" lat="41.9406268" lon="-87.6542677"/>
+ <node id="2204102205" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:33Z" user="chicago-buildings" uid="674454" lat="41.9406271" lon="-87.6543192"/>
+ <node id="2204102220" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:33Z" user="chicago-buildings" uid="674454" lat="41.9406350" lon="-87.6542511"/>
+ <node id="2204102243" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:34Z" user="chicago-buildings" uid="674454" lat="41.9406418" lon="-87.6551754"/>
+ <node id="2204102247" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:34Z" user="chicago-buildings" uid="674454" lat="41.9406430" lon="-87.6551497"/>
+ <node id="2204102267" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:34Z" user="chicago-buildings" uid="674454" lat="41.9406528" lon="-87.6542527"/>
+ <node id="2204102273" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:34Z" user="chicago-buildings" uid="674454" lat="41.9406558" lon="-87.6563827"/>
+ <node id="2204102277" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:34Z" user="chicago-buildings" uid="674454" lat="41.9406575" lon="-87.6562136"/>
+ <node id="2204102281" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:34Z" user="chicago-buildings" uid="674454" lat="41.9406595" lon="-87.6560831"/>
+ <node id="2204102283" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:34Z" user="chicago-buildings" uid="674454" lat="41.9406598" lon="-87.6542655"/>
+ <node id="2204102284" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:34Z" user="chicago-buildings" uid="674454" lat="41.9406599" lon="-87.6559140"/>
+ <node id="2204102286" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:34Z" user="chicago-buildings" uid="674454" lat="41.9406603" lon="-87.6559875"/>
+ <node id="2204102287" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:34Z" user="chicago-buildings" uid="674454" lat="41.9406608" lon="-87.6558313"/>
+ <node id="2204102289" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:34Z" user="chicago-buildings" uid="674454" lat="41.9406615" lon="-87.6557302"/>
+ <node id="2204102308" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:35Z" user="chicago-buildings" uid="674454" lat="41.9406658" lon="-87.6555152"/>
+ <node id="2204102309" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:35Z" user="chicago-buildings" uid="674454" lat="41.9406661" lon="-87.6544033"/>
+ <node id="2204102314" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:35Z" user="chicago-buildings" uid="674454" lat="41.9406673" lon="-87.6543812"/>
+ <node id="2204102337" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:35Z" user="chicago-buildings" uid="674454" lat="41.9406719" lon="-87.6547028"/>
+ <node id="2204102339" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:35Z" user="chicago-buildings" uid="674454" lat="41.9406720" lon="-87.6551769"/>
+ <node id="2204102349" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:35Z" user="chicago-buildings" uid="674454" lat="41.9406742" lon="-87.6546237"/>
+ <node id="2204102357" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:35Z" user="chicago-buildings" uid="674454" lat="41.9406760" lon="-87.6549325"/>
+ <node id="2204102359" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:36Z" user="chicago-buildings" uid="674454" lat="41.9406770" lon="-87.6548571"/>
+ <node id="2204102363" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:36Z" user="chicago-buildings" uid="674454" lat="41.9406777" lon="-87.6545153"/>
+ <node id="2204102364" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:36Z" user="chicago-buildings" uid="674454" lat="41.9406779" lon="-87.6547762"/>
+ <node id="2204102371" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:36Z" user="chicago-buildings" uid="674454" lat="41.9406797" lon="-87.6543829"/>
+ <node id="2204102374" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:36Z" user="chicago-buildings" uid="674454" lat="41.9406798" lon="-87.6544031"/>
+ <node id="2204102388" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:02:36Z" user="chicago-buildings" uid="674454" lat="41.9406817" lon="-87.6542671"/>
+ <node id="2401648316" visible="true" version="1" changeset="17154989" timestamp="2013-07-30T16:18:33Z" user="bbmiller" uid="451048" lat="41.9103281" lon="-87.6530996"/>
+ <node id="2401828929" visible="true" version="1" changeset="17157247" timestamp="2013-07-30T19:30:55Z" user="bbmiller" uid="451048" lat="41.9231284" lon="-87.6535357"/>
+ <node id="2402573913" visible="true" version="1" changeset="17167643" timestamp="2013-07-31T15:21:19Z" user="bbmiller" uid="451048" lat="41.9399469" lon="-87.6511927"/>
+ <node id="2402573929" visible="true" version="1" changeset="17167643" timestamp="2013-07-31T15:21:19Z" user="bbmiller" uid="451048" lat="41.9399424" lon="-87.6515803"/>
+ <node id="2402573941" visible="true" version="1" changeset="17167643" timestamp="2013-07-31T15:21:20Z" user="bbmiller" uid="451048" lat="41.9385285" lon="-87.6540647"/>
+ <node id="2402573959" visible="true" version="1" changeset="17167643" timestamp="2013-07-31T15:21:20Z" user="bbmiller" uid="451048" lat="41.9393775" lon="-87.6540820"/>
+ <node id="2402573967" visible="true" version="1" changeset="17167643" timestamp="2013-07-31T15:21:20Z" user="bbmiller" uid="451048" lat="41.9521324" lon="-87.6544731"/>
+ <node id="2402584688" visible="true" version="1" changeset="17167643" timestamp="2013-07-31T15:34:47Z" user="bbmiller" uid="451048" lat="41.9340013" lon="-87.6539041"/>
+ <node id="2402584713" visible="true" version="1" changeset="17167643" timestamp="2013-07-31T15:34:48Z" user="bbmiller" uid="451048" lat="41.9294727" lon="-87.6537536"/>
+ <node id="264826522" visible="true" version="23" changeset="17167643" timestamp="2013-07-31T15:34:51Z" user="bbmiller" uid="451048" lat="41.9308258" lon="-87.6537918"/>
+ <node id="2402601876" visible="true" version="1" changeset="17167643" timestamp="2013-07-31T15:47:03Z" user="bbmiller" uid="451048" lat="41.9282414" lon="-87.6537092"/>
+ <node id="2443908919" visible="true" version="1" changeset="17646793" timestamp="2013-09-03T03:39:04Z" user="boeleman81" uid="1557342" lat="41.9480640" lon="-87.6543521"/>
+ <node id="495655720" visible="true" version="4" changeset="23074647" timestamp="2014-06-22T06:14:47Z" user="boeleman81" uid="1557342" lat="41.9397635" lon="-87.6543038">
+  <tag k="addr:housenumber" v="1001"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="amenity" v="pharmacy"/>
+  <tag k="dispensing" v="yes"/>
+  <tag k="name" v="Walgreens"/>
+ </node>
+ <node id="2507317026" visible="true" version="1" changeset="18521258" timestamp="2013-10-24T15:05:59Z" user="bbmiller" uid="451048" lat="41.9330819" lon="-87.6544982"/>
+ <node id="2542097170" visible="true" version="1" changeset="19022807" timestamp="2013-11-20T20:24:25Z" user="bbmiller" uid="451048" lat="41.9397092" lon="-87.6675460"/>
+ <node id="2662779629" visible="true" version="1" changeset="20459580" timestamp="2014-02-09T07:32:30Z" user="Eliyak" uid="439046" lat="41.9396985" lon="-87.6685778">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2662779634" visible="true" version="1" changeset="20459580" timestamp="2014-02-09T07:32:30Z" user="Eliyak" uid="439046" lat="41.9396985" lon="-87.6686032">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2662779641" visible="true" version="1" changeset="20459580" timestamp="2014-02-09T07:32:30Z" user="Eliyak" uid="439046" lat="41.9396991" lon="-87.6683871"/>
+ <node id="2662779643" visible="true" version="1" changeset="20459580" timestamp="2014-02-09T07:32:30Z" user="Eliyak" uid="439046" lat="41.9396973" lon="-87.6689256"/>
+ <node id="26817980" visible="true" version="7" changeset="20459580" timestamp="2014-02-09T07:32:32Z" user="Eliyak" uid="439046" lat="41.9396979" lon="-87.6687372">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1733508894" visible="true" version="2" changeset="20459580" timestamp="2014-02-09T07:32:33Z" user="Eliyak" uid="439046" lat="41.9396530" lon="-87.6729334"/>
+ <node id="263901819" visible="true" version="32" changeset="20459580" timestamp="2014-02-09T07:32:33Z" user="Eliyak" uid="439046" lat="41.9396425" lon="-87.6738802"/>
+ <node id="2400948167" visible="true" version="2" changeset="20459580" timestamp="2014-02-09T07:32:33Z" user="Eliyak" uid="439046" lat="41.9396305" lon="-87.6749673"/>
+ <node id="308431218" visible="true" version="23" changeset="20459580" timestamp="2014-02-09T07:32:33Z" user="Eliyak" uid="439046" lat="41.9396200" lon="-87.6759185"/>
+ <node id="2400941081" visible="true" version="2" changeset="20459580" timestamp="2014-02-09T07:32:34Z" user="Eliyak" uid="439046" lat="41.9394969" lon="-87.6870551"/>
+ <node id="102708216" visible="true" version="52" changeset="20459580" timestamp="2014-02-09T07:32:34Z" user="Eliyak" uid="439046" lat="41.9394874" lon="-87.6879188">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2393667779" visible="true" version="2" changeset="20459580" timestamp="2014-02-09T07:32:34Z" user="Eliyak" uid="439046" lat="41.9394770" lon="-87.6888561"/>
+ <node id="308435343" visible="true" version="15" changeset="21437847" timestamp="2014-04-01T11:53:51Z" user="Eliyak" uid="439046" lat="41.9395396" lon="-87.6831946">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="250755990" visible="true" version="53" changeset="27477631" timestamp="2014-12-15T09:46:57Z" user="Zol87" uid="1237170" lat="41.9395931" lon="-87.6783506">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="308435398" visible="true" version="12" changeset="20459580" timestamp="2014-02-09T07:32:34Z" user="Eliyak" uid="439046" lat="41.9394630" lon="-87.6901282"/>
+ <node id="260099191" visible="true" version="46" changeset="20469897" timestamp="2014-02-09T17:56:47Z" user="Eliyak" uid="439046" lat="41.9362810" lon="-87.6539731">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2722729595" visible="true" version="1" changeset="21148701" timestamp="2014-03-17T03:47:42Z" user="Steven Vance" uid="100042" lat="41.9394725" lon="-87.6892649"/>
+ <node id="2722729603" visible="true" version="1" changeset="21148701" timestamp="2014-03-17T03:47:43Z" user="Steven Vance" uid="100042" lat="41.9396781" lon="-87.6706573"/>
+ <node id="2758167274" visible="true" version="1" changeset="21437847" timestamp="2014-04-01T11:53:49Z" user="Eliyak" uid="439046" lat="41.9434836" lon="-87.6542217">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2758167278" visible="true" version="1" changeset="21437847" timestamp="2014-04-01T11:53:49Z" user="Eliyak" uid="439046" lat="41.9436932" lon="-87.6542303">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2763340323" visible="true" version="1" changeset="21469607" timestamp="2014-04-03T04:31:30Z" user="Eliyak" uid="439046" lat="41.9177154" lon="-87.6533530"/>
+ <node id="2783790317" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:08Z" user="Eliyak" uid="439046" lat="41.9512529" lon="-87.6544448">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790318" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:08Z" user="Eliyak" uid="439046" lat="41.9510065" lon="-87.6544374">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790321" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:08Z" user="Eliyak" uid="439046" lat="41.9491699" lon="-87.6543844">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790322" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:08Z" user="Eliyak" uid="439046" lat="41.9489294" lon="-87.6543774">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790324" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:08Z" user="Eliyak" uid="439046" lat="41.9416413" lon="-87.6541644">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790325" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:08Z" user="Eliyak" uid="439046" lat="41.9418509" lon="-87.6541720">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790333" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:08Z" user="Eliyak" uid="439046" lat="41.9381947" lon="-87.6540561">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790335" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:08Z" user="Eliyak" uid="439046" lat="41.9379987" lon="-87.6540481">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790344" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:09Z" user="Eliyak" uid="439046" lat="41.9354700" lon="-87.6539541">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790346" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:09Z" user="Eliyak" uid="439046" lat="41.9352525" lon="-87.6539481">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790348" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:09Z" user="Eliyak" uid="439046" lat="41.9345541" lon="-87.6539260">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790349" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:09Z" user="Eliyak" uid="439046" lat="41.9343596" lon="-87.6539190">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790353" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:09Z" user="Eliyak" uid="439046" lat="41.9336495" lon="-87.6538895">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790356" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:09Z" user="Eliyak" uid="439046" lat="41.9334439" lon="-87.6538822">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790366" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:09Z" user="Eliyak" uid="439046" lat="41.9273028" lon="-87.6536710">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790369" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:09Z" user="Eliyak" uid="439046" lat="41.9270972" lon="-87.6536623">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790389" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:09Z" user="Eliyak" uid="439046" lat="41.9198259" lon="-87.6534269">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790390" visible="true" version="1" changeset="21631975" timestamp="2014-04-11T18:19:09Z" user="Eliyak" uid="439046" lat="41.9200323" lon="-87.6534334">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790387" visible="true" version="2" changeset="27367509" timestamp="2014-12-09T22:59:18Z" user="korky99_04" uid="188805" lat="41.9234655" lon="-87.6535477">
+  <tag k="direction" v="backward"/>
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="424597380" visible="true" version="4" changeset="21631975" timestamp="2014-04-11T18:19:10Z" user="Eliyak" uid="439046" lat="41.9244689" lon="-87.6535736"/>
+ <node id="263983704" visible="true" version="23" changeset="21631975" timestamp="2014-04-11T18:19:10Z" user="Eliyak" uid="439046" lat="41.9137458" lon="-87.6532145">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2783790399" visible="true" version="2" changeset="21637460" timestamp="2014-04-11T23:57:43Z" user="Eliyak" uid="439046" lat="41.9099713" lon="-87.6530880">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="2783790413" visible="true" version="2" changeset="21637460" timestamp="2014-04-11T23:57:43Z" user="Eliyak" uid="439046" lat="41.9096781" lon="-87.6530860"/>
+ <node id="2980328059" visible="true" version="1" changeset="24360563" timestamp="2014-07-26T00:51:15Z" user="mappy123" uid="15398" lat="41.9142997" lon="-87.6532303"/>
+ <node id="2783790384" visible="true" version="2" changeset="27367509" timestamp="2014-12-09T22:59:18Z" user="korky99_04" uid="188805" lat="41.9236674" lon="-87.6535537">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="stop"/>
+ </node>
+ <way id="210324235" visible="true" version="2" changeset="15740545" timestamp="2013-04-15T18:43:10Z" user="jimjoe45" uid="604536">
+  <nd ref="2204067488"/>
+  <nd ref="2204067491"/>
+  <nd ref="2204067536"/>
+  <nd ref="2204067537"/>
+  <nd ref="2204067529"/>
+  <nd ref="2204067528"/>
+  <nd ref="2204067520"/>
+  <nd ref="2204067521"/>
+  <nd ref="2204067530"/>
+  <nd ref="2204067531"/>
+  <nd ref="2204067522"/>
+  <nd ref="2204067523"/>
+  <nd ref="2204067492"/>
+  <nd ref="2204067489"/>
+  <nd ref="2204067488"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="210324236" visible="true" version="2" changeset="15740545" timestamp="2013-04-15T18:43:10Z" user="jimjoe45" uid="604536">
+  <nd ref="2204067478"/>
+  <nd ref="2204067479"/>
+  <nd ref="2204067481"/>
+  <nd ref="2204067482"/>
+  <nd ref="2204067484"/>
+  <nd ref="2204067486"/>
+  <nd ref="2204067487"/>
+  <nd ref="2204067516"/>
+  <nd ref="2204067519"/>
+  <nd ref="2204067505"/>
+  <nd ref="2204067501"/>
+  <nd ref="2204067496"/>
+  <nd ref="2204067485"/>
+  <nd ref="2204067483"/>
+  <nd ref="2204067480"/>
+  <nd ref="2204067478"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="24073192" visible="true" version="8" changeset="11702004" timestamp="2012-05-25T21:02:33Z" user="bbmiller" uid="451048">
+  <nd ref="308440636"/>
+  <nd ref="261128737"/>
+  <nd ref="308430828"/>
+  <nd ref="262225145"/>
+  <nd ref="261128740"/>
+  <nd ref="261128741"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="North Kenmore Avenue"/>
+  <tag k="oneway" v="-1"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Cook, IL"/>
+  <tag k="tiger:name_base" v="Kenmore"/>
+  <tag k="tiger:name_direction_prefix" v="N"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="111762410:111762419:111762422:111762442"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-ee310570-36cc-43bc-bc7b-aff94618acaf"/>
+  <tag k="tiger:zip_left" v="60657"/>
+  <tag k="tiger:zip_right" v="60657"/>
+ </way>
+ <way id="164966363" visible="true" version="2" changeset="18521258" timestamp="2013-10-24T15:06:04Z" user="bbmiller" uid="451048">
+  <nd ref="1765570736"/>
+  <nd ref="1765570733"/>
+  <nd ref="1765570731"/>
+  <nd ref="1765570752"/>
+  <nd ref="1765570729"/>
+  <nd ref="1765570757"/>
+  <nd ref="1765570730"/>
+  <nd ref="1765570748"/>
+  <nd ref="1765570745"/>
+  <nd ref="1765570734"/>
+  <nd ref="1765570725"/>
+  <nd ref="1765570728"/>
+  <nd ref="2507317026"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="alley"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="207279004" visible="true" version="1" changeset="15170092" timestamp="2013-02-26T07:51:27Z" user="Umbugbene" uid="567034">
+  <nd ref="2174736616"/>
+  <nd ref="2174736586"/>
+  <nd ref="2174736588"/>
+  <nd ref="2174736593"/>
+  <nd ref="2174736621"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="alley"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="210324247" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:10:52Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204067494"/>
+  <nd ref="2204067498"/>
+  <nd ref="2204067506"/>
+  <nd ref="2204067507"/>
+  <nd ref="2204067499"/>
+  <nd ref="2204067494"/>
+ </way>
+ <way id="210324248" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:10:52Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204067509"/>
+  <nd ref="2204067510"/>
+  <nd ref="2204067513"/>
+  <nd ref="2204067514"/>
+  <nd ref="2204067512"/>
+  <nd ref="2204067509"/>
+ </way>
+ <way id="210324979" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:48Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204096529"/>
+  <nd ref="2204096537"/>
+  <nd ref="2204096274"/>
+  <nd ref="2204096263"/>
+  <nd ref="2204096256"/>
+  <nd ref="2204096273"/>
+  <nd ref="2204096529"/>
+  <tag k="addr:housenumber" v="1000-1012"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="chicago:building_id" v="858727"/>
+ </way>
+ <way id="210324987" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:50Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204096258"/>
+  <nd ref="2204096513"/>
+  <nd ref="2204096514"/>
+  <nd ref="2204096262"/>
+  <nd ref="2204096258"/>
+  <tag k="addr:housenumber" v="1014"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="chicago:building_id" v="858723"/>
+ </way>
+ <way id="210324993" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:50Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204095030"/>
+  <nd ref="2204095241"/>
+  <nd ref="2204095240"/>
+  <nd ref="2204095799"/>
+  <nd ref="2204095804"/>
+  <nd ref="2204095257"/>
+  <nd ref="2204095151"/>
+  <nd ref="2204095127"/>
+  <nd ref="2204095035"/>
+  <nd ref="2204095030"/>
+  <tag k="addr:housenumber" v="1015"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="chicago:building_id" v="209263"/>
+ </way>
+ <way id="210324998" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:51Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204096513"/>
+  <nd ref="2204096258"/>
+  <nd ref="2204096252"/>
+  <nd ref="2204096701"/>
+  <nd ref="2204096709"/>
+  <nd ref="2204096595"/>
+  <nd ref="2204096594"/>
+  <nd ref="2204096548"/>
+  <nd ref="2204096547"/>
+  <nd ref="2204096513"/>
+  <tag k="addr:housenumber" v="1016"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="chicago:building_id" v="858722"/>
+ </way>
+ <way id="210325004" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:52Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204095027"/>
+  <nd ref="2204095312"/>
+  <nd ref="2204095311"/>
+  <nd ref="2204095716"/>
+  <nd ref="2204095719"/>
+  <nd ref="2204095031"/>
+  <nd ref="2204095027"/>
+  <tag k="addr:housenumber" v="1017"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="chicago:building_id" v="209387"/>
+ </way>
+ <way id="210325011" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:53Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204096232"/>
+  <nd ref="2204096233"/>
+  <nd ref="2204096255"/>
+  <nd ref="2204096354"/>
+  <nd ref="2204096356"/>
+  <nd ref="2204096377"/>
+  <nd ref="2204096378"/>
+  <nd ref="2204096470"/>
+  <nd ref="2204096475"/>
+  <nd ref="2204096394"/>
+  <nd ref="2204096386"/>
+  <nd ref="2204096371"/>
+  <nd ref="2204096373"/>
+  <nd ref="2204096253"/>
+  <nd ref="2204096254"/>
+  <nd ref="2204096232"/>
+  <tag k="addr:housenumber" v="1020"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="207627"/>
+ </way>
+ <way id="210325016" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:54Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204095019"/>
+  <nd ref="2204095784"/>
+  <nd ref="2204095789"/>
+  <nd ref="2204095020"/>
+  <nd ref="2204095019"/>
+  <tag k="addr:housenumber" v="1021"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="chicago:building_id" v="209291"/>
+ </way>
+ <way id="210325028" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:55Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204095018"/>
+  <nd ref="2204095071"/>
+  <nd ref="2204095777"/>
+  <nd ref="2204095795"/>
+  <nd ref="2204095024"/>
+  <nd ref="2204095018"/>
+  <tag k="addr:housenumber" v="1023-1025"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="chicago:building_id" v="209295"/>
+ </way>
+ <way id="210325061" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:30:59Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204095233"/>
+  <nd ref="2204095757"/>
+  <nd ref="2204095773"/>
+  <nd ref="2204095743"/>
+  <nd ref="2204095094"/>
+  <nd ref="2204095087"/>
+  <nd ref="2204095011"/>
+  <nd ref="2204095007"/>
+  <nd ref="2204095238"/>
+  <nd ref="2204095233"/>
+  <tag k="addr:housenumber" v="1033"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="862686"/>
+ </way>
+ <way id="210325066" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:31:00Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204096444"/>
+  <nd ref="2204096461"/>
+  <nd ref="2204096498"/>
+  <nd ref="2204096510"/>
+  <nd ref="2204096684"/>
+  <nd ref="2204096686"/>
+  <nd ref="2204096509"/>
+  <nd ref="2204096500"/>
+  <nd ref="2204096478"/>
+  <nd ref="2204096457"/>
+  <nd ref="2204096327"/>
+  <nd ref="2204096309"/>
+  <nd ref="2204096283"/>
+  <nd ref="2204096276"/>
+  <nd ref="2204096267"/>
+  <nd ref="2204096265"/>
+  <nd ref="2204096259"/>
+  <nd ref="2204096247"/>
+  <nd ref="2204096228"/>
+  <nd ref="2204096220"/>
+  <nd ref="2204096210"/>
+  <nd ref="2204096221"/>
+  <nd ref="2204096234"/>
+  <nd ref="2204096230"/>
+  <nd ref="2204096329"/>
+  <nd ref="2204096328"/>
+  <nd ref="2204096365"/>
+  <nd ref="2204096366"/>
+  <nd ref="2204096444"/>
+  <tag k="addr:housenumber" v="1034"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="207036"/>
+ </way>
+ <way id="210325078" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:31:02Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204096444"/>
+  <nd ref="2204096366"/>
+  <nd ref="2204096240"/>
+  <nd ref="2204096227"/>
+  <nd ref="2204096231"/>
+  <nd ref="2204096249"/>
+  <nd ref="2204096524"/>
+  <nd ref="2204096532"/>
+  <nd ref="2204096444"/>
+  <tag k="addr:housenumber" v="1038-1040"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="chicago:building_id" v="207501"/>
+ </way>
+ <way id="210325079" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:31:02Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204095233"/>
+  <nd ref="2204095046"/>
+  <nd ref="2204095047"/>
+  <nd ref="2204095752"/>
+  <nd ref="2204095757"/>
+  <nd ref="2204095233"/>
+  <tag k="addr:housenumber" v="1039"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="chicago:building_id" v="862685"/>
+ </way>
+ <way id="210325086" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:31:03Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204095047"/>
+  <nd ref="2204095049"/>
+  <nd ref="2204095745"/>
+  <nd ref="2204095752"/>
+  <nd ref="2204095047"/>
+  <tag k="addr:housenumber" v="1041"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="862684"/>
+ </way>
+ <way id="210325097" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:31:05Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204096231"/>
+  <nd ref="2204096229"/>
+  <nd ref="2204096278"/>
+  <nd ref="2204096289"/>
+  <nd ref="2204096316"/>
+  <nd ref="2204096335"/>
+  <nd ref="2204096502"/>
+  <nd ref="2204096505"/>
+  <nd ref="2204096401"/>
+  <nd ref="2204096399"/>
+  <nd ref="2204096361"/>
+  <nd ref="2204096360"/>
+  <nd ref="2204096249"/>
+  <nd ref="2204096231"/>
+  <tag k="addr:housenumber" v="1044"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="207580"/>
+ </way>
+ <way id="210325100" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:31:05Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204095181"/>
+  <nd ref="2204095287"/>
+  <nd ref="2204095284"/>
+  <nd ref="2204095747"/>
+  <nd ref="2204095755"/>
+  <nd ref="2204095772"/>
+  <nd ref="2204095790"/>
+  <nd ref="2204095787"/>
+  <nd ref="2204095771"/>
+  <nd ref="2204095739"/>
+  <nd ref="2204095720"/>
+  <nd ref="2204095708"/>
+  <nd ref="2204095702"/>
+  <nd ref="2204095439"/>
+  <nd ref="2204095443"/>
+  <nd ref="2204095186"/>
+  <nd ref="2204095181"/>
+  <tag k="addr:housenumber" v="1045"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="209312"/>
+ </way>
+ <way id="210325107" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:31:06Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204095228"/>
+  <nd ref="2204095724"/>
+  <nd ref="2204095737"/>
+  <nd ref="2204095234"/>
+  <nd ref="2204095228"/>
+  <tag k="addr:housenumber" v="1047-1049"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="4"/>
+  <tag k="chicago:building_id" v="209390"/>
+ </way>
+ <way id="210326243" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:34:26Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204095088"/>
+  <nd ref="2204094581"/>
+  <nd ref="2204094598"/>
+  <nd ref="2204093777"/>
+  <nd ref="2204093773"/>
+  <nd ref="2204092750"/>
+  <nd ref="2204092713"/>
+  <nd ref="2204095079"/>
+  <nd ref="2204095088"/>
+  <tag k="addr:housenumber" v="3128-3140"/>
+  <tag k="addr:street" v="North Sheffield Avenue"/>
+  <tag k="addr:street:name" v="Sheffield"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="7"/>
+  <tag k="chicago:building_id" v="889660"/>
+ </way>
+ <way id="210326340" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:34:36Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204094790"/>
+  <nd ref="2204094821"/>
+  <nd ref="2204094815"/>
+  <nd ref="2204094919"/>
+  <nd ref="2204094926"/>
+  <nd ref="2204094797"/>
+  <nd ref="2204094790"/>
+  <tag k="addr:housenumber" v="3144"/>
+  <tag k="addr:street" v="North Kenmore Avenue"/>
+  <tag k="addr:street:name" v="Kenmore"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="210818"/>
+ </way>
+ <way id="210326348" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:34:36Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204094804"/>
+  <nd ref="2204094950"/>
+  <nd ref="2204094960"/>
+  <nd ref="2204094813"/>
+  <nd ref="2204094804"/>
+  <tag k="addr:housenumber" v="3145"/>
+  <tag k="addr:street" v="North Kenmore Avenue"/>
+  <tag k="addr:street:name" v="Kenmore"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="210712"/>
+ </way>
+ <way id="210326352" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:34:37Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204094782"/>
+  <nd ref="2204094910"/>
+  <nd ref="2204094918"/>
+  <nd ref="2204094788"/>
+  <nd ref="2204094782"/>
+  <tag k="addr:housenumber" v="3145"/>
+  <tag k="addr:street" v="North Seminary Avenue"/>
+  <tag k="addr:street:name" v="Seminary"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="210855"/>
+ </way>
+ <way id="210326354" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:34:37Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204094803"/>
+  <nd ref="2204095313"/>
+  <nd ref="2204095336"/>
+  <nd ref="2204094816"/>
+  <nd ref="2204094803"/>
+  <tag k="addr:housenumber" v="3145"/>
+  <tag k="addr:street" v="North Sheffield Avenue"/>
+  <tag k="addr:street:name" v="Sheffield"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="209982"/>
+ </way>
+ <way id="210326384" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:34:39Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204095103"/>
+  <nd ref="2204095405"/>
+  <nd ref="2204095406"/>
+  <nd ref="2204095809"/>
+  <nd ref="2204095823"/>
+  <nd ref="2204095119"/>
+  <nd ref="2204095112"/>
+  <nd ref="2204095109"/>
+  <nd ref="2204095103"/>
+  <tag k="addr:housenumber" v="3150"/>
+  <tag k="addr:street" v="North Sheffield Avenue"/>
+  <tag k="addr:street:name" v="Sheffield"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="209223"/>
+ </way>
+ <way id="210326416" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:34:44Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204094977"/>
+  <nd ref="2204095718"/>
+  <nd ref="2204095734"/>
+  <nd ref="2204094998"/>
+  <nd ref="2204094977"/>
+  <tag k="addr:housenumber" v="3157-3159"/>
+  <tag k="addr:street" v="North Seminary Avenue"/>
+  <tag k="addr:street:name" v="Seminary"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="209392"/>
+ </way>
+ <way id="210326444" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:34:51Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204096166"/>
+  <nd ref="2204096174"/>
+  <nd ref="2204096205"/>
+  <nd ref="2204096224"/>
+  <nd ref="2204096239"/>
+  <nd ref="2204096246"/>
+  <nd ref="2204096320"/>
+  <nd ref="2204096345"/>
+  <nd ref="2204096364"/>
+  <nd ref="2204096374"/>
+  <nd ref="2204096607"/>
+  <nd ref="2204096613"/>
+  <nd ref="2204096740"/>
+  <nd ref="2204096742"/>
+  <nd ref="2204096223"/>
+  <nd ref="2204096207"/>
+  <nd ref="2204096168"/>
+  <nd ref="2204096166"/>
+  <tag k="addr:housenumber" v="3201"/>
+  <tag k="addr:street" v="North Seminary Avenue"/>
+  <tag k="addr:street:name" v="Seminary"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="206901"/>
+ </way>
+ <way id="210326450" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:34:52Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204096537"/>
+  <nd ref="2204096529"/>
+  <nd ref="2204096829"/>
+  <nd ref="2204096831"/>
+  <nd ref="2204096749"/>
+  <nd ref="2204096752"/>
+  <nd ref="2204096833"/>
+  <nd ref="2204096839"/>
+  <nd ref="2204096537"/>
+  <tag k="addr:housenumber" v="3208"/>
+  <tag k="addr:street" v="North Sheffield Avenue"/>
+  <tag k="addr:street:name" v="Sheffield"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="4"/>
+  <tag k="chicago:building_id" v="858726"/>
+ </way>
+ <way id="210327104" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:36:48Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204095332"/>
+  <nd ref="2204095829"/>
+  <nd ref="2204095846"/>
+  <nd ref="2204095341"/>
+  <nd ref="2204095332"/>
+  <tag k="addr:housenumber" v="953-963"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="chicago:building_id" v="209162"/>
+ </way>
+ <way id="210327390" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:37:10Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204094812"/>
+  <nd ref="2204094940"/>
+  <nd ref="2204094942"/>
+  <nd ref="2204094814"/>
+  <nd ref="2204094812"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="210752"/>
+ </way>
+ <way id="210327898" visible="true" version="1" changeset="15379900" timestamp="2013-03-16T03:37:59Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204094767"/>
+  <nd ref="2204094909"/>
+  <nd ref="2204094907"/>
+  <nd ref="2204094771"/>
+  <nd ref="2204094767"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="210867"/>
+ </way>
+ <way id="210329046" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:30Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101650"/>
+  <nd ref="2204101667"/>
+  <nd ref="2204101491"/>
+  <nd ref="2204101489"/>
+  <nd ref="2204101443"/>
+  <nd ref="2204101437"/>
+  <nd ref="2204101650"/>
+  <tag k="addr:housenumber" v="3211-3213"/>
+  <tag k="addr:street" v="North Sheffield Avenue"/>
+  <tag k="addr:street:name" v="Sheffield"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="858966"/>
+ </way>
+ <way id="210329049" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:30Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101470"/>
+  <nd ref="2204101556"/>
+  <nd ref="2204101569"/>
+  <nd ref="2204101513"/>
+  <nd ref="2204101512"/>
+  <nd ref="2204101476"/>
+  <nd ref="2204101478"/>
+  <nd ref="2204101474"/>
+  <nd ref="2204101470"/>
+  <tag k="addr:housenumber" v="3212"/>
+  <tag k="addr:street" v="North Kenmore Avenue"/>
+  <tag k="addr:street:name" v="Kenmore"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="chicago:building_id" v="206552"/>
+ </way>
+ <way id="210329051" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:30Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101479"/>
+  <nd ref="2204101499"/>
+  <nd ref="2204101497"/>
+  <nd ref="2204101583"/>
+  <nd ref="2204101595"/>
+  <nd ref="2204101484"/>
+  <nd ref="2204101479"/>
+  <tag k="addr:housenumber" v="3213"/>
+  <tag k="addr:street" v="North Kenmore Avenue"/>
+  <tag k="addr:street:name" v="Kenmore"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="chicago:building_id" v="206501"/>
+ </way>
+ <way id="210329054" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:31Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101667"/>
+  <nd ref="2204101650"/>
+  <nd ref="2204101777"/>
+  <nd ref="2204101795"/>
+  <nd ref="2204101668"/>
+  <nd ref="2204101667"/>
+  <tag k="addr:housenumber" v="3215"/>
+  <tag k="addr:street" v="North Sheffield Avenue"/>
+  <tag k="addr:street:name" v="Sheffield"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="chicago:building_id" v="858965"/>
+ </way>
+ <way id="210329059" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:32Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101605"/>
+  <nd ref="2204101684"/>
+  <nd ref="2204101683"/>
+  <nd ref="2204101729"/>
+  <nd ref="2204101733"/>
+  <nd ref="2204101613"/>
+  <nd ref="2204101605"/>
+  <tag k="addr:housenumber" v="3216"/>
+  <tag k="addr:street" v="North Kenmore Avenue"/>
+  <tag k="addr:street:name" v="Kenmore"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="chicago:building_id" v="206216"/>
+ </way>
+ <way id="210329062" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:32Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101644"/>
+  <nd ref="2204101764"/>
+  <nd ref="2204101772"/>
+  <nd ref="2204101748"/>
+  <nd ref="2204101711"/>
+  <nd ref="2204101697"/>
+  <nd ref="2204101661"/>
+  <nd ref="2204101644"/>
+  <tag k="addr:housenumber" v="3216"/>
+  <tag k="addr:street" v="North Sheffield Avenue"/>
+  <tag k="addr:street:name" v="Sheffield"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="206113"/>
+ </way>
+ <way id="210329064" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:33Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101730"/>
+  <nd ref="2204101737"/>
+  <nd ref="2204101721"/>
+  <nd ref="2204101724"/>
+  <nd ref="2204101610"/>
+  <nd ref="2204101599"/>
+  <nd ref="2204101730"/>
+  <tag k="addr:housenumber" v="3217"/>
+  <tag k="addr:street" v="North Kenmore Avenue"/>
+  <tag k="addr:street:name" v="Kenmore"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="847720"/>
+ </way>
+ <way id="210329066" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:33Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101574"/>
+  <nd ref="2204101712"/>
+  <nd ref="2204101718"/>
+  <nd ref="2204101646"/>
+  <nd ref="2204101647"/>
+  <nd ref="2204101584"/>
+  <nd ref="2204101574"/>
+  <tag k="addr:housenumber" v="3217"/>
+  <tag k="addr:street" v="North Seminary Avenue"/>
+  <tag k="addr:street:name" v="Seminary"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="chicago:building_id" v="206267"/>
+ </way>
+ <way id="210329067" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:33Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101841"/>
+  <nd ref="2204101894"/>
+  <nd ref="2204101904"/>
+  <nd ref="2204101962"/>
+  <nd ref="2204101965"/>
+  <nd ref="2204101825"/>
+  <nd ref="2204101819"/>
+  <nd ref="2204101800"/>
+  <nd ref="2204101796"/>
+  <nd ref="2204101812"/>
+  <nd ref="2204101814"/>
+  <nd ref="2204101841"/>
+  <tag k="addr:housenumber" v="3217"/>
+  <tag k="addr:street" v="North Sheffield Avenue"/>
+  <tag k="addr:street:name" v="Sheffield"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="chicago:building_id" v="847706"/>
+ </way>
+ <way id="210329070" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:33Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101736"/>
+  <nd ref="2204101900"/>
+  <nd ref="2204101906"/>
+  <nd ref="2204101744"/>
+  <nd ref="2204101736"/>
+  <tag k="addr:housenumber" v="3218"/>
+  <tag k="addr:street" v="North Kenmore Avenue"/>
+  <tag k="addr:street:name" v="Kenmore"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="chicago:building_id" v="205927"/>
+ </way>
+ <way id="210329073" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:34Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101782"/>
+  <nd ref="2204101783"/>
+  <nd ref="2204101805"/>
+  <nd ref="2204101794"/>
+  <nd ref="2204101944"/>
+  <nd ref="2204101957"/>
+  <nd ref="2204101887"/>
+  <nd ref="2204101886"/>
+  <nd ref="2204101807"/>
+  <nd ref="2204101804"/>
+  <nd ref="2204101782"/>
+  <tag k="addr:housenumber" v="3218"/>
+  <tag k="addr:street" v="North Sheffield Avenue"/>
+  <tag k="addr:street:name" v="Sheffield"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="205811"/>
+ </way>
+ <way id="210329081" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:35Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101775"/>
+  <nd ref="2204101914"/>
+  <nd ref="2204101931"/>
+  <nd ref="2204101786"/>
+  <nd ref="2204101775"/>
+  <tag k="addr:housenumber" v="3219"/>
+  <tag k="addr:street" v="North Kenmore Avenue"/>
+  <tag k="addr:street:name" v="Kenmore"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="chicago:building_id" v="205864"/>
+ </way>
+ <way id="210329083" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:35Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101725"/>
+  <nd ref="2204101863"/>
+  <nd ref="2204101862"/>
+  <nd ref="2204101993"/>
+  <nd ref="2204101992"/>
+  <nd ref="2204102009"/>
+  <nd ref="2204102016"/>
+  <nd ref="2204101728"/>
+  <nd ref="2204101725"/>
+  <tag k="addr:housenumber" v="3219"/>
+  <tag k="addr:street" v="North Seminary Avenue"/>
+  <tag k="addr:street:name" v="Seminary"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="205764"/>
+ </way>
+ <way id="210329085" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:36Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101908"/>
+  <nd ref="2204102098"/>
+  <nd ref="2204102109"/>
+  <nd ref="2204101923"/>
+  <nd ref="2204101908"/>
+  <tag k="addr:housenumber" v="3220"/>
+  <tag k="addr:street" v="North Kenmore Avenue"/>
+  <tag k="addr:street:name" v="Kenmore"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="205644"/>
+ </way>
+ <way id="210329087" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:36Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101966"/>
+  <nd ref="2204102163"/>
+  <nd ref="2204102171"/>
+  <nd ref="2204102129"/>
+  <nd ref="2204102127"/>
+  <nd ref="2204102165"/>
+  <nd ref="2204102173"/>
+  <nd ref="2204101978"/>
+  <nd ref="2204101966"/>
+  <tag k="addr:housenumber" v="3220"/>
+  <tag k="addr:street" v="North Sheffield Avenue"/>
+  <tag k="addr:street:name" v="Sheffield"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="205519"/>
+ </way>
+ <way id="210329089" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:36Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101930"/>
+  <nd ref="2204101953"/>
+  <nd ref="2204101951"/>
+  <nd ref="2204101967"/>
+  <nd ref="2204102014"/>
+  <nd ref="2204102040"/>
+  <nd ref="2204102120"/>
+  <nd ref="2204102123"/>
+  <nd ref="2204102053"/>
+  <nd ref="2204102064"/>
+  <nd ref="2204102122"/>
+  <nd ref="2204102126"/>
+  <nd ref="2204102084"/>
+  <nd ref="2204102082"/>
+  <nd ref="2204101961"/>
+  <nd ref="2204101958"/>
+  <nd ref="2204101938"/>
+  <nd ref="2204101930"/>
+  <tag k="addr:housenumber" v="3221"/>
+  <tag k="addr:street" v="North Kenmore Avenue"/>
+  <tag k="addr:street:name" v="Kenmore"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="205609"/>
+ </way>
+ <way id="210329091" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:37Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101889"/>
+  <nd ref="2204102060"/>
+  <nd ref="2204102072"/>
+  <nd ref="2204101899"/>
+  <nd ref="2204101889"/>
+  <tag k="addr:housenumber" v="3221"/>
+  <tag k="addr:street" v="North Seminary Avenue"/>
+  <tag k="addr:street:name" v="Seminary"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="205709"/>
+ </way>
+ <way id="210329092" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:37Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204102187"/>
+  <nd ref="2204102195"/>
+  <nd ref="2204101968"/>
+  <nd ref="2204101965"/>
+  <nd ref="2204101962"/>
+  <nd ref="2204101975"/>
+  <nd ref="2204101977"/>
+  <nd ref="2204102187"/>
+  <tag k="addr:housenumber" v="3221"/>
+  <tag k="addr:street" v="North Sheffield Avenue"/>
+  <tag k="addr:street:name" v="Sheffield"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="chicago:building_id" v="847710"/>
+ </way>
+ <way id="210329097" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:37Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204102114"/>
+  <nd ref="2204102289"/>
+  <nd ref="2204102308"/>
+  <nd ref="2204102128"/>
+  <nd ref="2204102114"/>
+  <tag k="addr:housenumber" v="3222"/>
+  <tag k="addr:street" v="North Kenmore Avenue"/>
+  <tag k="addr:street:name" v="Kenmore"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="chicago:building_id" v="205355"/>
+ </way>
+ <way id="210329100" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:38Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204102180"/>
+  <nd ref="2204102182"/>
+  <nd ref="2204102200"/>
+  <nd ref="2204102192"/>
+  <nd ref="2204102363"/>
+  <nd ref="2204102374"/>
+  <nd ref="2204102309"/>
+  <nd ref="2204102314"/>
+  <nd ref="2204102371"/>
+  <nd ref="2204102388"/>
+  <nd ref="2204102283"/>
+  <nd ref="2204102267"/>
+  <nd ref="2204102220"/>
+  <nd ref="2204102204"/>
+  <nd ref="2204102205"/>
+  <nd ref="2204102180"/>
+  <tag k="addr:housenumber" v="3222"/>
+  <tag k="addr:street" v="North Sheffield Avenue"/>
+  <tag k="addr:street:name" v="Sheffield"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="205247"/>
+ </way>
+ <way id="210329101" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:38Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204102168"/>
+  <nd ref="2204102247"/>
+  <nd ref="2204102243"/>
+  <nd ref="2204102339"/>
+  <nd ref="2204102357"/>
+  <nd ref="2204102177"/>
+  <nd ref="2204102168"/>
+  <tag k="addr:housenumber" v="3223"/>
+  <tag k="addr:street" v="North Kenmore Avenue"/>
+  <tag k="addr:street:name" v="Kenmore"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="205290"/>
+ </way>
+ <way id="210329103" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:25:38Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204102089"/>
+  <nd ref="2204102273"/>
+  <nd ref="2204102277"/>
+  <nd ref="2204102099"/>
+  <nd ref="2204102089"/>
+  <tag k="addr:housenumber" v="3223"/>
+  <tag k="addr:street" v="North Seminary Avenue"/>
+  <tag k="addr:street:name" v="Seminary"/>
+  <tag k="addr:street:prefix" v="North"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="205409"/>
+ </way>
+ <way id="210331627" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:33:06Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204102135"/>
+  <nd ref="2204102337"/>
+  <nd ref="2204102349"/>
+  <nd ref="2204102146"/>
+  <nd ref="2204102135"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="205296"/>
+ </way>
+ <way id="210331720" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:33:12Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101597"/>
+  <nd ref="2204101717"/>
+  <nd ref="2204101723"/>
+  <nd ref="2204101600"/>
+  <nd ref="2204101597"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="206253"/>
+ </way>
+ <way id="210331775" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:33:16Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101480"/>
+  <nd ref="2204101561"/>
+  <nd ref="2204101566"/>
+  <nd ref="2204101481"/>
+  <nd ref="2204101480"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="206568"/>
+ </way>
+ <way id="210331801" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:33:17Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101973"/>
+  <nd ref="2204101974"/>
+  <nd ref="2204101826"/>
+  <nd ref="2204101823"/>
+  <nd ref="2204101973"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="847708"/>
+ </way>
+ <way id="210331950" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:33:49Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101915"/>
+  <nd ref="2204102094"/>
+  <nd ref="2204102097"/>
+  <nd ref="2204101920"/>
+  <nd ref="2204101915"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="205678"/>
+ </way>
+ <way id="210332129" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:33:58Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204102136"/>
+  <nd ref="2204102284"/>
+  <nd ref="2204102287"/>
+  <nd ref="2204102140"/>
+  <nd ref="2204102136"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="205386"/>
+ </way>
+ <way id="210332136" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:33:59Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204102167"/>
+  <nd ref="2204102359"/>
+  <nd ref="2204102364"/>
+  <nd ref="2204102170"/>
+  <nd ref="2204102167"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="205280"/>
+ </way>
+ <way id="210332219" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:34:03Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101753"/>
+  <nd ref="2204101760"/>
+  <nd ref="2204101614"/>
+  <nd ref="2204101612"/>
+  <nd ref="2204101753"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="847721"/>
+ </way>
+ <way id="210332232" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:34:04Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101761"/>
+  <nd ref="2204101891"/>
+  <nd ref="2204101893"/>
+  <nd ref="2204101763"/>
+  <nd ref="2204101761"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="205967"/>
+ </way>
+ <way id="210332251" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:34:05Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101956"/>
+  <nd ref="2204102118"/>
+  <nd ref="2204102121"/>
+  <nd ref="2204101959"/>
+  <nd ref="2204101956"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="205594"/>
+ </way>
+ <way id="210332300" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:34:08Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101611"/>
+  <nd ref="2204101726"/>
+  <nd ref="2204101727"/>
+  <nd ref="2204101618"/>
+  <nd ref="2204101611"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="206238"/>
+ </way>
+ <way id="210332429" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:34:16Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204102148"/>
+  <nd ref="2204102281"/>
+  <nd ref="2204102286"/>
+  <nd ref="2204102152"/>
+  <nd ref="2204102148"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="205396"/>
+ </way>
+ <way id="210332514" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:34:21Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204102194"/>
+  <nd ref="2204102202"/>
+  <nd ref="2204101974"/>
+  <nd ref="2204101973"/>
+  <nd ref="2204101976"/>
+  <nd ref="2204102194"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="847709"/>
+ </way>
+ <way id="210332534" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:34:22Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101488"/>
+  <nd ref="2204101544"/>
+  <nd ref="2204101545"/>
+  <nd ref="2204101607"/>
+  <nd ref="2204101609"/>
+  <nd ref="2204101490"/>
+  <nd ref="2204101488"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="206470"/>
+ </way>
+ <way id="210332558" visible="true" version="1" changeset="15380081" timestamp="2013-03-16T04:34:24Z" user="chicago-buildings" uid="674454">
+  <nd ref="2204101813"/>
+  <nd ref="2204101942"/>
+  <nd ref="2204101939"/>
+  <nd ref="2204102147"/>
+  <nd ref="2204102159"/>
+  <nd ref="2204101817"/>
+  <nd ref="2204101813"/>
+  <tag k="building" v="yes"/>
+  <tag k="chicago:building_id" v="205562"/>
+ </way>
+ <way id="295084994" visible="true" version="2" changeset="27477631" timestamp="2014-12-15T09:47:06Z" user="Zol87" uid="1237170">
+  <nd ref="250278978"/>
+  <nd ref="262171727"/>
+  <nd ref="26808056"/>
+  <nd ref="2402573913"/>
+  <nd ref="2402573929"/>
+  <nd ref="262171396"/>
+  <nd ref="250278980"/>
+  <nd ref="1765570752"/>
+  <nd ref="308430828"/>
+  <nd ref="2174736616"/>
+  <nd ref="308430829"/>
+  <nd ref="2174736573"/>
+  <nd ref="308430830"/>
+  <nd ref="365489175"/>
+  <nd ref="250278964"/>
+  <nd ref="365489265"/>
+  <nd ref="308430867"/>
+  <nd ref="250278983"/>
+  <nd ref="365489181"/>
+  <nd ref="308430869"/>
+  <nd ref="365489196"/>
+  <nd ref="308430872"/>
+  <nd ref="2542097170"/>
+  <nd ref="2662779641"/>
+  <nd ref="2662779629"/>
+  <nd ref="2662779634"/>
+  <nd ref="26817980"/>
+  <nd ref="2662779643"/>
+  <nd ref="495735658"/>
+  <nd ref="2722729603"/>
+  <nd ref="308431246"/>
+  <nd ref="1733508894"/>
+  <nd ref="263901890"/>
+  <nd ref="263901819"/>
+  <nd ref="308431243"/>
+  <nd ref="2400948167"/>
+  <nd ref="308431218"/>
+  <nd ref="250755990"/>
+  <nd ref="308435346"/>
+  <nd ref="308435343"/>
+  <nd ref="308435341"/>
+  <nd ref="2400941081"/>
+  <nd ref="102708216"/>
+  <nd ref="308434344"/>
+  <nd ref="2393667779"/>
+  <nd ref="2722729595"/>
+  <nd ref="308435398"/>
+  <nd ref="308435386"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="West Belmont Avenue"/>
+ </way>
+ <way id="59594749" visible="true" version="21" changeset="27409775" timestamp="2014-12-11T21:20:30Z" user="korky99_04" uid="188805">
+  <nd ref="2783790413"/>
+  <nd ref="262368759"/>
+  <nd ref="2783790399"/>
+  <nd ref="2401648316"/>
+  <nd ref="250756058"/>
+  <nd ref="2109658731"/>
+  <nd ref="418527733"/>
+  <nd ref="250756055"/>
+  <nd ref="263983571"/>
+  <nd ref="418527734"/>
+  <nd ref="418527735"/>
+  <nd ref="418527736"/>
+  <nd ref="739321961"/>
+  <nd ref="263983704"/>
+  <nd ref="2980328059"/>
+  <nd ref="418527737"/>
+  <nd ref="265641952"/>
+  <nd ref="263985033"/>
+  <nd ref="1842179834"/>
+  <nd ref="2763340323"/>
+  <nd ref="102705893"/>
+  <nd ref="1842179846"/>
+  <nd ref="2783790389"/>
+  <nd ref="265641496"/>
+  <nd ref="2783790390"/>
+  <nd ref="1842179890"/>
+  <nd ref="250756039"/>
+  <nd ref="1842179912"/>
+  <nd ref="2324274681"/>
+  <nd ref="2401828929"/>
+  <nd ref="2783790387"/>
+  <nd ref="286368851"/>
+  <nd ref="2783790384"/>
+  <nd ref="424597380"/>
+  <nd ref="286372523"/>
+  <nd ref="1842180010"/>
+  <nd ref="286372699"/>
+  <nd ref="2014252624"/>
+  <nd ref="2783790369"/>
+  <nd ref="286372663"/>
+  <nd ref="2783790366"/>
+  <nd ref="250278950"/>
+  <nd ref="308677322"/>
+  <nd ref="2402601876"/>
+  <nd ref="262369459"/>
+  <nd ref="2402584713"/>
+  <nd ref="264826522"/>
+  <nd ref="1765570735"/>
+  <nd ref="250278937"/>
+  <nd ref="1765570741"/>
+  <nd ref="2783790356"/>
+  <nd ref="308440333"/>
+  <nd ref="2783790353"/>
+  <nd ref="2402584688"/>
+  <nd ref="2783790349"/>
+  <nd ref="308440334"/>
+  <nd ref="2783790348"/>
+  <nd ref="2783790346"/>
+  <nd ref="260099213"/>
+  <nd ref="2783790344"/>
+  <nd ref="260099191"/>
+  <nd ref="2012532409"/>
+  <nd ref="308440319"/>
+  <nd ref="2783790335"/>
+  <nd ref="308440308"/>
+  <nd ref="2783790333"/>
+  <nd ref="2402573941"/>
+  <nd ref="262172157"/>
+  <nd ref="2402573959"/>
+  <nd ref="250278980"/>
+  <nd ref="2783790324"/>
+  <nd ref="1764458394"/>
+  <nd ref="2783790325"/>
+  <nd ref="2758167274"/>
+  <nd ref="1764458385"/>
+  <nd ref="2758167278"/>
+  <nd ref="308430597"/>
+  <nd ref="1764458377"/>
+  <nd ref="26808254"/>
+  <nd ref="2443908919"/>
+  <nd ref="2783790322"/>
+  <nd ref="1764458396"/>
+  <nd ref="2783790321"/>
+  <nd ref="2783790318"/>
+  <nd ref="1764458393"/>
+  <nd ref="2783790317"/>
+  <nd ref="2402573967"/>
+  <nd ref="2286329568"/>
+  <nd ref="250278958"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="North Sheffield Avenue"/>
+ </way>
+ <relation id="4277006" visible="true" version="2" changeset="27478082" timestamp="2014-12-15T10:16:23Z" user="Zol87" uid="1237170">
+  <member type="way" ref="295084994" role=""/>
+  <member type="way" ref="312682834" role=""/>
+  <member type="way" ref="312682838" role="forward"/>
+  <member type="way" ref="317340850" role="backward"/>
+  <member type="way" ref="28084698" role=""/>
+  <member type="way" ref="313764796" role=""/>
+  <member type="way" ref="313764799" role=""/>
+  <member type="way" ref="28084695" role=""/>
+  <member type="way" ref="244791293" role="backward"/>
+  <member type="way" ref="312682835" role="backward"/>
+  <member type="way" ref="97519048" role=""/>
+  <member type="way" ref="97295286" role=""/>
+  <member type="way" ref="97051962" role=""/>
+  <member type="way" ref="312525436" role="forward"/>
+  <member type="way" ref="312525814" role="forward"/>
+  <tag k="name" v="Belmont Night Bus"/>
+  <tag k="network" v="CTA"/>
+  <tag k="operator" v="Chicago Transit Authority"/>
+  <tag k="ref" v="N77"/>
+  <tag k="route" v="bus"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="2821807" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:10:53Z" user="chicago-buildings" uid="674454">
+  <member type="way" ref="210324235" role="outer"/>
+  <member type="way" ref="210324248" role="inner"/>
+  <tag k="addr:housenumber" v="952-962"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="chicago:building_id" v="207006"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="2821810" visible="true" version="1" changeset="15379831" timestamp="2013-03-16T03:10:53Z" user="chicago-buildings" uid="674454">
+  <member type="way" ref="210324236" role="outer"/>
+  <member type="way" ref="210324247" role="inner"/>
+  <tag k="addr:housenumber" v="1022-1024"/>
+  <tag k="addr:street" v="West Belmont Avenue"/>
+  <tag k="addr:street:name" v="Belmont"/>
+  <tag k="addr:street:prefix" v="West"/>
+  <tag k="addr:street:type" v="Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="chicago:building_id" v="207597"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="4189655" visible="true" version="9" changeset="27523485" timestamp="2014-12-17T07:28:04Z" user="Zol87" uid="1237170">
+  <member type="way" ref="312525436" role="forward"/>
+  <member type="way" ref="312525814" role="forward"/>
+  <member type="way" ref="96328350" role=""/>
+  <member type="way" ref="312525813" role=""/>
+  <member type="way" ref="97051962" role=""/>
+  <member type="way" ref="97295286" role=""/>
+  <member type="way" ref="97519048" role=""/>
+  <member type="way" ref="28084695" role=""/>
+  <member type="way" ref="28084698" role=""/>
+  <member type="way" ref="295084994" role=""/>
+  <member type="way" ref="295084986" role=""/>
+  <member type="way" ref="23921769" role="backward"/>
+  <member type="way" ref="23921827" role=""/>
+  <member type="way" ref="312682836" role="forward"/>
+  <member type="way" ref="244791293" role="backward"/>
+  <member type="way" ref="312682835" role="backward"/>
+  <member type="node" ref="3009097094" role=""/>
+  <member type="node" ref="3009097095" role=""/>
+  <member type="node" ref="3009097093" role=""/>
+  <member type="node" ref="3009097090" role=""/>
+  <member type="node" ref="3009097091" role=""/>
+  <member type="node" ref="2987586973" role=""/>
+  <member type="node" ref="2987586970" role=""/>
+  <member type="way" ref="317340850" role=""/>
+  <member type="way" ref="313764796" role=""/>
+  <member type="way" ref="313764799" role=""/>
+  <member type="way" ref="259672358" role="forward"/>
+  <member type="way" ref="317622792" role="forward"/>
+  <member type="way" ref="317622789" role="forward"/>
+  <tag k="name" v="Belmont"/>
+  <tag k="network" v="CTA"/>
+  <tag k="operator" v="Chicago Transit Authority"/>
+  <tag k="ref" v="77"/>
+  <tag k="route" v="bus"/>
+  <tag k="type" v="route"/>
+ </relation>
+</osm>
