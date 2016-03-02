@@ -1,4 +1,4 @@
-ud032
+Udacity - Wrangle OpenStreetMap Data
 =====
 
 Data Wrangling with MongoDB class code
